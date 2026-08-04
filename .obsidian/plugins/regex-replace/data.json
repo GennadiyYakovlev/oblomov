@@ -1,0 +1,32 @@
+{
+  "defaultFlags": "g",
+  "historyLimit": 10,
+  "showPreview": true,
+  "recentPatterns": [
+    {
+      "search": "\\n",
+      "replace": "",
+      "flags": "g",
+      "timestamp": 1784657458724
+    },
+    {
+      "search": "-\\n",
+      "replace": "",
+      "flags": "g",
+      "timestamp": 1784657332054
+    },
+    {
+      "search": " \\n\\n",
+      "replace": " ",
+      "flags": "g",
+      "timestamp": 1784657255295
+    },
+    {
+      "search": "\\d{1,3}\\n\\n",
+      "replace": "",
+      "flags": "g",
+      "timestamp": 1784657183168
+    }
+  ],
+  "ruleSets": []
+}

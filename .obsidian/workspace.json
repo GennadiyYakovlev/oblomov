@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "2886cb3289412651",
+    "type": "split",
+    "children": [
+      {
+        "id": "5375b4b7086f2e7d",
+        "type": "tabs",
+        "dimension": 51.17948717948719,
+        "children": [
+          {
+            "id": "a2a02de1483428ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обломов 2.0/01_Чемпион/01_03_Лорд.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_03_Лорд"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d3ebf4b34e739474",
+        "type": "tabs",
+        "dimension": 48.82051282051281,
+        "children": [
+          {
+            "id": "a75664d8ef8538e5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8cba3a406c2889d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cb192d876ca2608",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "282e5e0a393eff65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "f3dcb80510cf02e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "ad67b74830bd8ab2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a3ee0b5f7f0e36f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "982d05f00a061294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46322b639ce4c8e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Добро пожаловать"
+            }
+          },
+          {
+            "id": "2c0a690244f91ed5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Добро пожаловать"
+            }
+          },
+          {
+            "id": "c45db01334a1b8c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "9c814870b36521c2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "057cb4985fa9b85c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Добро пожаловать"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "282e5e0a393eff65",
+  "lastOpenFiles": [
+    "oblomov",
+    "Обломов 2.0/01_Чемпион/01_02_Разговор с Джорджи.md",
+    "Обломов 2.0/01_Чемпион/01_01_Дискотека чемпионов.md",
+    "Обломов 2.0/01_Чемпион/01_03_Лорд.md",
+    "Обломов 2.0/01_Чемпион/01_00_Титул.md",
+    "_texty/ИЗО/Образование.md",
+    "_texty/Словоформы.md",
+    "_texty/исторический фон/Мария Романова.md",
+    "Обломов 2.0/01_Чемпион",
+    "_texty/исторический фон/Династия Романовых.md",
+    "_res/Мария_Соколов.jpg",
+    "_res/Мария_Соколов.jpg.opdownload",
+    "_res",
+    "_куы",
+    "Новая папка",
+    "_texty/исторический фон/Августа Саксен-Веймар-Эйзенахская.md",
+    "Pasted image 20260729225418.png",
+    "_texty/wiki/Персонажи/Старик Обломов.md",
+    "_texty/wiki/Локации/Обломовка.md",
+    "_texty/ИЗО/Инструменты.md",
+    "Pasted image 20260730125839.png",
+    "Pasted image 20260730005849.png",
+    "_texty/исторический фон/Портрет княжны.md",
+    "_texty/ИЗО/Эпоха.md",
+    "_texty/ИЗО",
+    "Pasted image 20260729232854.png",
+    "_texty/исторический фон/Фамильные обеды.md",
+    "_texty/исторический фон/РИ 1815-1850.md",
+    "_texty/исторический фон/Светская жизнь.md",
+    "Pasted image 20260729225542.png",
+    "_texty/исторический фон/Рус-тур война 1828–1829.md",
+    "_texty/исторический фон",
+    "_drafty/ГГ.md",
+    "_drafty/Сильные сцены.md",
+    "_drafty",
+    "Обломов 2.0",
+    "_texty/wiki/Время/Хронотоп.md",
+    "_texty/wiki/Персонажи/Илья Ильич Обломов.md",
+    "_texty/wiki/Метафоры/Лежание как состояние.md",
+    "_texty/wiki/События/Контракт и переезд.md",
+    "_texty/wiki/Персонажи/Михей Андреевич Тарантьев.md",
+    "_texty/wiki/Аллюзии"
+  ]
+}
