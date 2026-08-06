@@ -6,7 +6,7 @@
       {
         "id": "5375b4b7086f2e7d",
         "type": "tabs",
-        "dimension": 51.17948717948719,
+        "dimension": 60.410256410256416,
         "children": [
           {
             "id": "a2a02de1483428ed",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Обломов 2.0/01_Чемпион/01_03_Лорд.md",
+                "file": "_texty/Цитаты/Экономика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_03_Лорд"
+              "title": "Экономика"
             }
           }
         ]
@@ -27,16 +27,20 @@
       {
         "id": "d3ebf4b34e739474",
         "type": "tabs",
-        "dimension": 48.82051282051281,
+        "dimension": 39.58974358974359,
         "children": [
           {
             "id": "a75664d8ef8538e5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "_texty/Цитаты/Словоформы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Словоформы"
             }
           }
         ]
@@ -203,49 +207,50 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "282e5e0a393eff65",
+  "active": "a2a02de1483428ed",
   "lastOpenFiles": [
-    "Новый текстовый документ.txt",
-    "oblomov",
-    "Обломов 2.0/01_Чемпион/01_02_Разговор с Джорджи.md",
-    "Обломов 2.0/01_Чемпион/01_01_Дискотека чемпионов.md",
-    "Обломов 2.0/01_Чемпион/01_03_Лорд.md",
-    "Обломов 2.0/01_Чемпион/01_00_Титул.md",
-    "_texty/ИЗО/Образование.md",
-    "_texty/Словоформы.md",
-    "_texty/исторический фон/Мария Романова.md",
-    "Обломов 2.0/01_Чемпион",
-    "_texty/исторический фон/Династия Романовых.md",
+    "_texty/Цитаты/Путешествия.md",
+    "_texty/Цитаты/Экономика.md",
+    "_texty/Цитаты/Словоформы.md",
+    "_texty/Цитаты/Ухаживания.md",
+    "_texty/Цитаты/Семейное счастье.md",
+    "_texty/Цитаты",
+    "Обломов 2.0/01_Система/01_05_Офис.md",
+    "_sys/__reports/text-analytics/dataview/chapters/01_Система.md",
+    "_sys/__reports/text-analytics/01_По_главам.md",
+    "_sys/__reports/text-analytics/00_Dashboard.md",
+    "_sys/__reports/text-analytics/dataview/00_Dataview_Таблицы.md",
+    "_drafty/Notes.md",
+    "_drafty/Аннотация.md",
+    "Обломов 2.0/01_Система/01_03_Лорд.md",
+    "Обломов 2.0/01_Система/01_04_Откат.md",
+    "_texty/И.Гончаров Обломов.md",
+    "Обломов 2.0/01_Система/01_02_Разговор с Джорджи.md",
+    "Обломов 2.0/01_Система/01_01_Дискотека чемпионов.md",
+    "_sys/Команды.md",
+    "_sys/__reports/text-analytics/dataview/files/01_Система_01_05_Офис.md",
+    "_sys/__reports/text-analytics/dataview/files/01_Система_01_04_Откат.md",
+    "_sys/__reports/text-analytics/dataview/files/01_Система_01_03_Лорд.md",
+    "_sys/__reports/text-analytics/dataview/files/01_Система_01_02_Разговор_с_Джорджи.md",
+    "_sys/__reports/text-analytics/dataview/files/01_Система_01_01_Дискотека_чемпионов.md",
+    "_sys/__reports/text-analytics/dataview/files/01_Система_01_00_Титул.md",
+    "_drafty/ГГ.md",
+    "Без названия.canvas",
+    "_sys/__reports/clean/01_02_Разговор с Джорджи.clean-view-annotated.md",
+    "_sys/__reports/clean",
+    "_sys/__reports/text-analytics/dataview/chapters",
+    "_sys/__reports/text-analytics/dataview/files",
+    "_sys/__reports/text-analytics/dataview",
+    "_sys/__reports/text-analytics/chapters",
+    "_sys/__reports/text-analytics",
+    "_sys/__reports",
+    "Обломов 2.0/__reports/text-analytics/dataview/files",
+    "Обломов 2.0/__reports/text-analytics/dataview/chapters",
     "_res/Мария_Соколов.jpg",
-    "_res/Мария_Соколов.jpg.opdownload",
-    "_res",
-    "_куы",
-    "Новая папка",
-    "_texty/исторический фон/Августа Саксен-Веймар-Эйзенахская.md",
     "Pasted image 20260729225418.png",
-    "_texty/wiki/Персонажи/Старик Обломов.md",
-    "_texty/wiki/Локации/Обломовка.md",
-    "_texty/ИЗО/Инструменты.md",
     "Pasted image 20260730125839.png",
     "Pasted image 20260730005849.png",
-    "_texty/исторический фон/Портрет княжны.md",
-    "_texty/ИЗО/Эпоха.md",
-    "_texty/ИЗО",
     "Pasted image 20260729232854.png",
-    "_texty/исторический фон/Фамильные обеды.md",
-    "_texty/исторический фон/РИ 1815-1850.md",
-    "_texty/исторический фон/Светская жизнь.md",
-    "Pasted image 20260729225542.png",
-    "_texty/исторический фон/Рус-тур война 1828–1829.md",
-    "_texty/исторический фон",
-    "_drafty/ГГ.md",
-    "_drafty/Сильные сцены.md",
-    "_drafty",
-    "Обломов 2.0",
-    "_texty/wiki/Время/Хронотоп.md",
-    "_texty/wiki/Персонажи/Илья Ильич Обломов.md",
-    "_texty/wiki/Метафоры/Лежание как состояние.md",
-    "_texty/wiki/События/Контракт и переезд.md",
-    "_texty/wiki/Персонажи/Михей Андреевич Тарантьев.md"
+    "Pasted image 20260729225542.png"
   ]
 }

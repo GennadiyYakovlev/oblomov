@@ -1,0 +1,47 @@
+{
+  "path": "01_Чемпион/01_00_Титул.md",
+  "chapter": "01",
+  "words": 8,
+  "symbols": 71,
+  "unique_words": 8,
+  "stopwords_words": 0,
+  "max_word_repeats": 1,
+  "sentences": 4,
+  "paragraphs": 1,
+  "avg_word_len": 7.0,
+  "avg_sentence_len_words": 2.0,
+  "avg_paragraph_len_words": 8.0,
+  "dialogue_lines": 0,
+  "lines": 3,
+  "dialogue_share_percent": 0.0,
+  "top_words": [
+    [
+      "обломов",
+      1
+    ],
+    [
+      "мастер",
+      1
+    ],
+    [
+      "прокрастинации",
+      1
+    ],
+    [
+      "часть",
+      1
+    ],
+    [
+      "глава",
+      1
+    ],
+    [
+      "дискотека",
+      1
+    ],
+    [
+      "чемпионов",
+      1
+    ]
+  ]
+}
