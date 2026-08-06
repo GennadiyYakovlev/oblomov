@@ -6,7 +6,7 @@
       {
         "id": "5375b4b7086f2e7d",
         "type": "tabs",
-        "dimension": 60.410256410256416,
+        "dimension": 39.8974358974359,
         "children": [
           {
             "id": "a2a02de1483428ed",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_texty/Цитаты/Экономика.md",
+                "file": "Обломов 2.0/01_Система/01_01_Пролог.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Экономика"
+              "title": "01_01_Пролог"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "d3ebf4b34e739474",
         "type": "tabs",
-        "dimension": 39.58974358974359,
+        "dimension": 60.1025641025641,
         "children": [
           {
             "id": "a75664d8ef8538e5",
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_texty/Цитаты/Словоформы.md",
+                "file": "_texty/И.Гончаров Обломов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Словоформы"
+              "title": "И.Гончаров Обломов"
             }
           }
         ]
@@ -209,34 +209,36 @@
   },
   "active": "a2a02de1483428ed",
   "lastOpenFiles": [
-    "_texty/Цитаты/Путешествия.md",
+    "_texty/И.Гончаров Обломов.md",
+    "Обломов 2.0/01_Система/01_01_Пролог.md",
+    "Обломов 2.0/01_Система/01_02_Дискотека чемпионов.md",
     "_texty/Цитаты/Экономика.md",
     "_texty/Цитаты/Словоформы.md",
+    "Обломов 2.0/01_Система/01_06_Офис.md",
+    "Обломов 2.0/01_Система/01_05_Откат.md",
+    "Обломов 2.0/01_Система/01_04_Лорд.md",
+    "Обломов 2.0/01_Система/01_03_Разговор с Джорджи.md",
+    "_texty/oblomov-said/task.md",
+    "_texty/oblomov-said",
+    "_texty/tranlator/task.md",
+    "_texty/tranlator",
+    "_texty/Цитаты/Путешествия.md",
     "_texty/Цитаты/Ухаживания.md",
     "_texty/Цитаты/Семейное счастье.md",
     "_texty/Цитаты",
-    "Обломов 2.0/01_Система/01_05_Офис.md",
     "_sys/__reports/text-analytics/dataview/chapters/01_Система.md",
     "_sys/__reports/text-analytics/01_По_главам.md",
     "_sys/__reports/text-analytics/00_Dashboard.md",
     "_sys/__reports/text-analytics/dataview/00_Dataview_Таблицы.md",
     "_drafty/Notes.md",
     "_drafty/Аннотация.md",
-    "Обломов 2.0/01_Система/01_03_Лорд.md",
-    "Обломов 2.0/01_Система/01_04_Откат.md",
-    "_texty/И.Гончаров Обломов.md",
-    "Обломов 2.0/01_Система/01_02_Разговор с Джорджи.md",
-    "Обломов 2.0/01_Система/01_01_Дискотека чемпионов.md",
     "_sys/Команды.md",
     "_sys/__reports/text-analytics/dataview/files/01_Система_01_05_Офис.md",
     "_sys/__reports/text-analytics/dataview/files/01_Система_01_04_Откат.md",
     "_sys/__reports/text-analytics/dataview/files/01_Система_01_03_Лорд.md",
     "_sys/__reports/text-analytics/dataview/files/01_Система_01_02_Разговор_с_Джорджи.md",
     "_sys/__reports/text-analytics/dataview/files/01_Система_01_01_Дискотека_чемпионов.md",
-    "_sys/__reports/text-analytics/dataview/files/01_Система_01_00_Титул.md",
-    "_drafty/ГГ.md",
     "Без названия.canvas",
-    "_sys/__reports/clean/01_02_Разговор с Джорджи.clean-view-annotated.md",
     "_sys/__reports/clean",
     "_sys/__reports/text-analytics/dataview/chapters",
     "_sys/__reports/text-analytics/dataview/files",
@@ -244,8 +246,6 @@
     "_sys/__reports/text-analytics/chapters",
     "_sys/__reports/text-analytics",
     "_sys/__reports",
-    "Обломов 2.0/__reports/text-analytics/dataview/files",
-    "Обломов 2.0/__reports/text-analytics/dataview/chapters",
     "_res/Мария_Соколов.jpg",
     "Pasted image 20260729225418.png",
     "Pasted image 20260730125839.png",
