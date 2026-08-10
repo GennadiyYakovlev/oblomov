@@ -14,15 +14,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Обломов 2.0/01_Система/01_06_Офис.md",
+                "file": "Обломов 2.0/02_Откат/02_01_Лорд.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_06_Офис"
+              "title": "02_01_Лорд"
+            }
+          },
+          {
+            "id": "0a99b0c507f54990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обломов 2.0/02_Откат/02_02_Откат.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_02_Откат"
+            }
+          },
+          {
+            "id": "9f65df5f4e821dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_texty/исторический фон/Наука/Образование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Образование"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "d3ebf4b34e739474",
@@ -35,12 +64,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_texty/исторический фон/Августа Саксен-Веймар-Эйзенахская.md",
+                "file": "_texty/И.Гончаров Обломов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Августа Саксен-Веймар-Эйзенахская"
+              "title": "И.Гончаров Обломов"
             }
           }
         ]
@@ -207,50 +236,54 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "282e5e0a393eff65",
+  "active": "9f65df5f4e821dd7",
   "lastOpenFiles": [
-    "Обломов 2.0/01_Система/01_05_Откат.md",
-    "Обломов 2.0/01_Система/01_06_Офис.md",
-    "Обломов 2.0/01_Система/01_04_Лорд.md",
+    "Обломов 2.0/03_Детство/03_01_Лень.md",
+    "Обломов 2.0/03_Детство/03_00_Титул.md",
+    "_texty/И.Гончаров Обломов.md",
+    "Обломов 2.0/02_Откат/02_00_Титул.md",
+    "Обломов 2.0/02_Откат/02_03_Офис.md",
+    "Обломов 2.0/03_Детство",
+    "Обломов 2.0/02_Откат/02_02_Откат.md",
+    "Обломов 2.0/02_Откат/02_01_Лорд.md",
     "Обломов 2.0/01_Система/01_03_Разговор с Джорджи.md",
     "Обломов 2.0/01_Система/01_02_Дискотека чемпионов.md",
     "Обломов 2.0/01_Система/01_01_Пролог.md",
-    "_texty/исторический фон/Августа Саксен-Веймар-Эйзенахская.md",
-    "_texty/исторический фон/Наука/Пансионат.md",
-    "_texty/исторический фон/Наука/Образование.md",
-    "_texty/Цитаты/Ухаживания.md",
-    "_texty/исторический фон/Наука/Дисциплины обучения.md",
-    "_texty/исторический фон/Наука/ТеорВер.md",
-    "_texty/исторический фон/Наука/Математика.md",
-    "_texty/исторический фон/Наука",
-    "_drafty/ГГ/Образование Обломова.md",
-    "_texty/И.Гончаров Обломов.md",
-    "_drafty/ГГ/ГГ.md",
-    "_drafty/ГГ",
-    "_texty/wiki/Персонажи/Анисья.md",
-    "_texty/wiki/Персонажи/Андрей Иванович Штольц.md",
-    "_texty/wiki/Локации/Обломовка.md",
+    "Обломов 2.0/01_Система/01_00_Титул.md",
+    "_sys/__reports/text-analytics/chapters/01.md",
+    "_texty/исторический фон/Прогрессорство/Ветряная мельница.md",
+    "Обломов 2.0/02_Откат",
+    "_texty/исторический фон/Прогрессорство/Мосты.md",
+    "_texty/исторический фон/Архангельское.md",
+    "_texty/исторический фон/Прогрессорство",
+    "_texty/wiki/Персонажи/Илья Ильич Обломов.md",
+    "_res/Архангельское.png",
+    "_res/Simbirsk_Korsun_uezd.jpg",
+    "_res/сосновка.png",
     "_res/Мария_Соколов.jpg",
-    "_sys/create wiki.md",
-    "_drafty/Сильные сцены.md",
+    "_res/Симбирская область.jpg",
     "_texty/Цитаты/Экономика.md",
-    "_drafty/Notes.md",
-    "_texty/Цитаты/Обращения.md",
-    "_texty/Цитаты/Словоформы.md",
-    "_texty/Цитаты/Хобби.md",
+    "_res/Simbirsk_Korsun_uezd.jpg.opdownload",
+    "_res/Симбирская область2.jpg",
+    "_res/Симбирская область2.jpg.opdownload",
+    "_res/карсун.jpg",
+    "_res/карсун.jpg.opdownload",
+    "_res/Симбирская область.jpg.opdownload",
+    "_drafty/ГГ/Образование Обломова.md",
+    "_texty/исторический фон/Экономика поместья.md",
+    "_sys/__reports/text-analytics/00_Dashboard.md",
+    "_sys/__reports/clean/01_01_Пролог.clean-view-annotated.md",
+    "_sys/Команды.md",
+    "_sys/__reports/text-analytics/dataview/chapters/01_Система.md",
+    "_sys/__reports/clean/01_06_Офис.clean-view-annotated.md",
+    "_sys/__reports/clean/01_05_Откат.clean-view-annotated.md",
+    "_sys/__reports/clean/01_04_Лорд.clean-view-annotated.md",
+    "_texty/исторический фон/Наука",
+    "_drafty/ГГ",
     "_texty/oblomov-said",
-    "_texty/tranlator",
-    "_texty/Цитаты",
     "Без названия.canvas",
-    "_sys/__reports/clean",
-    "_sys/__reports/text-analytics/dataview/chapters",
-    "_sys/__reports/text-analytics/dataview/files",
-    "_sys/__reports/text-analytics/dataview",
-    "_sys/__reports/text-analytics/chapters",
     "Pasted image 20260729225418.png",
     "Pasted image 20260730125839.png",
-    "Pasted image 20260730005849.png",
-    "Pasted image 20260729232854.png",
-    "Pasted image 20260729225542.png"
+    "Pasted image 20260730005849.png"
   ]
 }
