@@ -1,16 +1,16 @@
 {
   "path": "01_Система/01_03_Разговор с Джорджи.md",
   "chapter": "01",
-  "words": 1511,
-  "symbols": 9819,
-  "unique_words": 826,
-  "stopwords_words": 609,
+  "words": 1507,
+  "symbols": 9808,
+  "unique_words": 827,
+  "stopwords_words": 606,
   "max_word_repeats": 13,
-  "sentences": 160,
+  "sentences": 159,
   "paragraphs": 1,
   "avg_word_len": 5.2,
-  "avg_sentence_len_words": 9.4,
-  "avg_paragraph_len_words": 1511.0,
+  "avg_sentence_len_words": 9.5,
+  "avg_paragraph_len_words": 1507.0,
   "dialogue_lines": 0,
   "lines": 55,
   "dialogue_share_percent": 0.0,
@@ -33,7 +33,7 @@
     ],
     [
       "тебе",
-      7
+      6
     ],
     [
       "матиуша",

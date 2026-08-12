@@ -6,70 +6,41 @@
       {
         "id": "5375b4b7086f2e7d",
         "type": "tabs",
-        "dimension": 39.8974358974359,
+        "dimension": 49.07692307692308,
         "children": [
-          {
-            "id": "a2a02de1483428ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обломов 2.0/02_Откат/02_01_Лорд.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02_01_Лорд"
-            }
-          },
           {
             "id": "0a99b0c507f54990",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Обломов 2.0/02_Откат/02_02_Откат.md",
+                "file": "Обломов 2.0/03_Детство/03_03_Магия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_02_Откат"
-            }
-          },
-          {
-            "id": "9f65df5f4e821dd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_texty/исторический фон/Наука/Образование.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Образование"
+              "title": "03_03_Магия"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "d3ebf4b34e739474",
+        "id": "319ff3a84964eb32",
         "type": "tabs",
-        "dimension": 60.1025641025641,
+        "dimension": 50.92307692307693,
         "children": [
           {
-            "id": "a75664d8ef8538e5",
+            "id": "41924c3bf9bc1709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_texty/И.Гончаров Обломов.md",
+                "file": "_texty/Цитаты/Словоформы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "И.Гончаров Обломов"
+              "title": "Словоформы"
             }
           }
         ]
@@ -236,54 +207,54 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "9f65df5f4e821dd7",
+  "active": "0a99b0c507f54990",
   "lastOpenFiles": [
-    "Обломов 2.0/03_Детство/03_01_Лень.md",
-    "Обломов 2.0/03_Детство/03_00_Титул.md",
+    "Обломов 2.0/03_Детство/03_02_Алхимия.md",
+    "Обломов 2.0/03_Детство/03_03_Магия.md",
+    "_texty/ИЗО/XIX vs XX.md",
+    "_texty/Цитаты/Словоформы.md",
+    "_texty/МЕЖ ДВУХ ВРЕМЕН.md",
     "_texty/И.Гончаров Обломов.md",
-    "Обломов 2.0/02_Откат/02_00_Титул.md",
+    "_res/Финней Джек. Меж двух времен - TheLib.Ru.txt",
+    "_texty/Финней Джек. Меж двух времен - TheLib.Ru.txt",
+    "Обломов 2.0/03_Детство/03_01_Лень.md",
+    "_texty/исторический фон/Прогрессорство/Пигменты.md",
+    "_drafty/ГГ/ГГ.md",
     "Обломов 2.0/02_Откат/02_03_Офис.md",
+    "_texty/исторический фон/Местность/Архангельское.md",
+    "_texty/исторический фон/Наука/Дисциплины обучения.md",
+    "_texty/исторический фон/Наука/Образование.md",
+    "_drafty/ГГ/Образование Обломова.md",
+    "_texty/исторический фон/Наука/Пансионат.md",
+    "_texty/ИЗО/Образование.md",
+    "_drafty/Notes.md",
+    "_drafty/Матушка.md",
+    "_texty/Стишки/Пирожки.md",
+    "_texty/ИЗО/История карандашей.md",
+    "_drafty/Иллюзионы.md",
+    "_texty/Цитаты/Хобби.md",
+    "_texty/ИЗО/История комиксов.md",
+    "_res/comix.png",
+    "_texty/Стишки",
+    "_texty/wiki/Персонажи/Андрей Иванович Штольц.md",
+    "_texty/исторический фон/Августа Саксен-Веймар-Эйзенахская.md",
+    "_sys/create wiki.md",
+    "_texty/исторический фон/Местность",
     "Обломов 2.0/03_Детство",
-    "Обломов 2.0/02_Откат/02_02_Откат.md",
-    "Обломов 2.0/02_Откат/02_01_Лорд.md",
-    "Обломов 2.0/01_Система/01_03_Разговор с Джорджи.md",
-    "Обломов 2.0/01_Система/01_02_Дискотека чемпионов.md",
-    "Обломов 2.0/01_Система/01_01_Пролог.md",
-    "Обломов 2.0/01_Система/01_00_Титул.md",
-    "_sys/__reports/text-analytics/chapters/01.md",
-    "_texty/исторический фон/Прогрессорство/Ветряная мельница.md",
     "Обломов 2.0/02_Откат",
-    "_texty/исторический фон/Прогрессорство/Мосты.md",
-    "_texty/исторический фон/Архангельское.md",
     "_texty/исторический фон/Прогрессорство",
-    "_texty/wiki/Персонажи/Илья Ильич Обломов.md",
     "_res/Архангельское.png",
     "_res/Simbirsk_Korsun_uezd.jpg",
     "_res/сосновка.png",
     "_res/Мария_Соколов.jpg",
     "_res/Симбирская область.jpg",
-    "_texty/Цитаты/Экономика.md",
     "_res/Simbirsk_Korsun_uezd.jpg.opdownload",
     "_res/Симбирская область2.jpg",
     "_res/Симбирская область2.jpg.opdownload",
     "_res/карсун.jpg",
     "_res/карсун.jpg.opdownload",
-    "_res/Симбирская область.jpg.opdownload",
-    "_drafty/ГГ/Образование Обломова.md",
-    "_texty/исторический фон/Экономика поместья.md",
-    "_sys/__reports/text-analytics/00_Dashboard.md",
-    "_sys/__reports/clean/01_01_Пролог.clean-view-annotated.md",
-    "_sys/Команды.md",
-    "_sys/__reports/text-analytics/dataview/chapters/01_Система.md",
-    "_sys/__reports/clean/01_06_Офис.clean-view-annotated.md",
-    "_sys/__reports/clean/01_05_Откат.clean-view-annotated.md",
-    "_sys/__reports/clean/01_04_Лорд.clean-view-annotated.md",
-    "_texty/исторический фон/Наука",
-    "_drafty/ГГ",
-    "_texty/oblomov-said",
     "Без названия.canvas",
     "Pasted image 20260729225418.png",
-    "Pasted image 20260730125839.png",
-    "Pasted image 20260730005849.png"
+    "Pasted image 20260730125839.png"
   ]
 }

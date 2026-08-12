@@ -1,23 +1,23 @@
 {
   "path": "01_Система/01_00_Титул.md",
   "chapter": "01",
-  "words": 8,
-  "symbols": 71,
-  "unique_words": 8,
-  "stopwords_words": 0,
-  "max_word_repeats": 1,
-  "sentences": 4,
+  "words": 36,
+  "symbols": 226,
+  "unique_words": 35,
+  "stopwords_words": 13,
+  "max_word_repeats": 2,
+  "sentences": 6,
   "paragraphs": 1,
-  "avg_word_len": 7.0,
-  "avg_sentence_len_words": 2.0,
-  "avg_paragraph_len_words": 8.0,
+  "avg_word_len": 4.8,
+  "avg_sentence_len_words": 6.0,
+  "avg_paragraph_len_words": 36.0,
   "dialogue_lines": 0,
-  "lines": 3,
+  "lines": 4,
   "dialogue_share_percent": 0.0,
   "top_words": [
     [
       "обломов",
-      1
+      2
     ],
     [
       "мастер",
@@ -36,11 +36,67 @@
       1
     ],
     [
-      "дискотека",
+      "система",
       1
     ],
     [
-      "чемпионов",
+      "хотя",
+      1
+    ],
+    [
+      "ласков",
+      1
+    ],
+    [
+      "всеми",
+      1
+    ],
+    [
+      "любил",
+      1
+    ],
+    [
+      "искренно",
+      1
+    ],
+    [
+      "одного",
+      1
+    ],
+    [
+      "верил",
+      1
+    ],
+    [
+      "одному",
+      1
+    ],
+    [
+      "рос",
+      1
+    ],
+    [
+      "учился",
+      1
+    ],
+    [
+      "жил",
+      1
+    ],
+    [
+      "вместе",
+      1
+    ],
+    [
+      "андрей",
+      1
+    ],
+    [
+      "иванович",
+      1
+    ],
+    [
+      "штольц",
       1
     ]
   ]

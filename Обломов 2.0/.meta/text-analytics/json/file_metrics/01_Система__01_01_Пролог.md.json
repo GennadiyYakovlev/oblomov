@@ -1,16 +1,16 @@
 {
   "path": "01_Система/01_01_Пролог.md",
   "chapter": "01",
-  "words": 1258,
-  "symbols": 8537,
-  "unique_words": 778,
-  "stopwords_words": 461,
+  "words": 1269,
+  "symbols": 8603,
+  "unique_words": 782,
+  "stopwords_words": 464,
   "max_word_repeats": 8,
-  "sentences": 127,
+  "sentences": 128,
   "paragraphs": 1,
   "avg_word_len": 5.5,
   "avg_sentence_len_words": 9.9,
-  "avg_paragraph_len_words": 1258.0,
+  "avg_paragraph_len_words": 1269.0,
   "dialogue_lines": 0,
   "lines": 56,
   "dialogue_share_percent": 0.0,
@@ -38,6 +38,10 @@
     [
       "приглашение",
       5
+    ],
+    [
+      "штольц",
+      4
     ],
     [
       "друг",
@@ -92,19 +96,11 @@
       2
     ],
     [
-      "сказать",
-      2
-    ],
-    [
       "глаза",
       2
     ],
     [
       "кресле",
-      2
-    ],
-    [
-      "штольц",
       2
     ],
     [
@@ -133,6 +129,10 @@
     ],
     [
       "могу",
+      2
+    ],
+    [
+      "моей",
       2
     ]
   ]

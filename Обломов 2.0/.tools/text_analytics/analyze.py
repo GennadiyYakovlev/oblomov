@@ -138,6 +138,14 @@ def collect_target_files(project_root: Path, cfg: dict, mode: str, chapter: str 
     return files
 
 
+def list_chapter_numbers(project_root: Path) -> list[str]:
+    chapters: list[str] = []
+    for d in project_root.iterdir():
+        if d.is_dir() and re.match(r"^\d{2}_", d.name):
+            chapters.append(chapter_number_from_name(d.name))
+    return sorted(set(chapters))
+
+
 def changed_files_via_git(project_root: Path) -> set[str]:
     cmd = ["git", "-C", str(project_root), "status", "--porcelain"]
     out = subprocess.check_output(cmd, text=True, encoding="utf-8", errors="ignore")
@@ -378,9 +386,9 @@ def write_outputs(project_root: Path, files_metrics: list[FileMetrics], paths: d
 
     dataview_dashboard = (
         "# Dataview Tables\n\n"
-        "## Summary by chapter (22 rows)\n\n"
+        "## Summary by chapter\n\n"
         "```dataview\n"
-        "TABLE files_count as Files, words as Words, symbols as Symbols, words_leng as WordsLeng, sentences as Sentences, wateriness as Wateriness, nausea as Nausea, lexicon_size as LexiconSize, lexical_richness as LexRich, top_words_3 as Top3Words\n"
+        "TABLE files_count as Files, words as Words, symbols as Symbols, words_leng as WordsLeng, sentences as Sentences, wateriness as Wateriness, nausea as Nausea, lexicon_size as LexiconSize, lexical_richness as LexRich, top_words_5 as Top5Words\n"
         "FROM #chapter-metric\n"
         "WHERE contains(file.path, \"_sys/__reports/text-analytics/dataview/chapters\") AND dv_ready\n"
         "SORT chapter ASC\n"
@@ -415,14 +423,20 @@ def write_outputs(project_root: Path, files_metrics: list[FileMetrics], paths: d
 def main() -> None:
     parser = argparse.ArgumentParser(description="Text analytics for manuscript markdown files")
     parser.add_argument("--config", default=".tools/text_analytics/config.yaml", help="Path to config YAML")
+    parser.add_argument("--all", action="store_true", help="Analyze all chapters one by one")
     parser.add_argument("--full", action="store_true", help="Analyze all chapter files")
     parser.add_argument("--changed", action="store_true", help="Analyze only changed files by git status")
     parser.add_argument("--chapter", help="Analyze only one chapter number, e.g. 07")
     args = parser.parse_args()
 
+    if args.all and args.chapter:
+        raise SystemExit("--all cannot be used with --chapter")
+
     run_mode = "full"
     if args.changed:
         run_mode = "changed"
+    elif args.all:
+        run_mode = "all"
 
     project_root = Path.cwd()
     config_path = project_root / args.config
@@ -430,7 +444,15 @@ def main() -> None:
 
     chapter = args.chapter.zfill(2) if args.chapter else None
 
-    files = collect_target_files(project_root, cfg, run_mode, chapter)
+    files: list[Path] = []
+    if args.all:
+        for chapter_num in list_chapter_numbers(project_root):
+            chapter_files = collect_target_files(project_root, cfg, "full", chapter_num)
+            files.extend(chapter_files)
+            print(f"Chapter {chapter_num}: {len(chapter_files)} files")
+    else:
+        files = collect_target_files(project_root, cfg, run_mode, chapter)
+
     metrics = [analyze_file(p, chapter_number_from_name(p.parent.name), cfg) for p in files]
     paths = ensure_dirs(cfg, project_root)
     write_outputs(project_root, metrics, paths, run_mode)

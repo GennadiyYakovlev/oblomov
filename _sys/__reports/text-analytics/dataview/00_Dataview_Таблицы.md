@@ -1,9 +1,9 @@
 # Dataview Tables
 
-## Summary by chapter (22 rows)
+## Summary by chapter
 
 ```dataview
-TABLE files_count as Files, words as Words, symbols as Symbols, words_leng as WordsLeng, sentences as Sentences, wateriness as Wateriness, nausea as Nausea, lexicon_size as LexiconSize, lexical_richness as LexRich, top_words_3 as Top3Words
+TABLE files_count as Files, words as Words, symbols as Symbols, words_leng as WordsLeng, sentences as Sentences, wateriness as Wateriness, nausea as Nausea, lexicon_size as LexiconSize, lexical_richness as LexRich, top_words_5 as Top5Words
 FROM #chapter-metric
 WHERE contains(file.path, "_sys/__reports/text-analytics/dataview/chapters") AND dv_ready
 SORT chapter ASC
