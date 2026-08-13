@@ -1,16 +1,16 @@
 {
   "path": "02_Откат/02_03_Офис.md",
   "chapter": "02",
-  "words": 1497,
-  "symbols": 9754,
-  "unique_words": 910,
-  "stopwords_words": 553,
+  "words": 1495,
+  "symbols": 9753,
+  "unique_words": 912,
+  "stopwords_words": 549,
   "max_word_repeats": 6,
-  "sentences": 140,
+  "sentences": 139,
   "paragraphs": 1,
   "avg_word_len": 5.3,
-  "avg_sentence_len_words": 10.7,
-  "avg_paragraph_len_words": 1497.0,
+  "avg_sentence_len_words": 10.8,
+  "avg_paragraph_len_words": 1495.0,
   "dialogue_lines": 0,
   "lines": 47,
   "dialogue_share_percent": 0.0,
@@ -20,15 +20,15 @@
       6
     ],
     [
-      "интерфейс",
-      6
-    ],
-    [
       "зомби",
       6
     ],
     [
       "год",
+      5
+    ],
+    [
+      "интерфейс",
       5
     ],
     [
@@ -44,11 +44,11 @@
       5
     ],
     [
-      "голове",
-      5
+      "джорджи",
+      4
     ],
     [
-      "джорджи",
+      "голове",
       4
     ],
     [
@@ -112,6 +112,10 @@
       3
     ],
     [
+      "оно",
+      2
+    ],
+    [
       "арт",
       2
     ],
@@ -129,10 +133,6 @@
     ],
     [
       "отдела",
-      2
-    ],
-    [
-      "закрыл",
       2
     ]
   ]
