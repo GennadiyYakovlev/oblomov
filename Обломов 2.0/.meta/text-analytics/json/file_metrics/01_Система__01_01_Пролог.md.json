@@ -1,23 +1,23 @@
 {
   "path": "01_Система/01_01_Пролог.md",
   "chapter": "01",
-  "words": 1269,
-  "symbols": 8603,
-  "unique_words": 782,
-  "stopwords_words": 464,
-  "max_word_repeats": 8,
+  "words": 1290,
+  "symbols": 8741,
+  "unique_words": 792,
+  "stopwords_words": 468,
+  "max_word_repeats": 9,
   "sentences": 128,
   "paragraphs": 1,
   "avg_word_len": 5.5,
-  "avg_sentence_len_words": 9.9,
-  "avg_paragraph_len_words": 1269.0,
+  "avg_sentence_len_words": 10.1,
+  "avg_paragraph_len_words": 1290.0,
   "dialogue_lines": 0,
   "lines": 56,
   "dialogue_share_percent": 0.0,
   "top_words": [
     [
       "андрей",
-      8
+      9
     ],
     [
       "обед",
@@ -76,6 +76,14 @@
       3
     ],
     [
+      "солнца",
+      3
+    ],
+    [
+      "луч",
+      3
+    ],
+    [
       "обломов",
       3
     ],
@@ -125,14 +133,6 @@
     ],
     [
       "слегка",
-      2
-    ],
-    [
-      "могу",
-      2
-    ],
-    [
-      "моей",
       2
     ]
   ]

@@ -2,13 +2,13 @@
   "path": "01_Система/01_00_Титул.md",
   "chapter": "01",
   "words": 36,
-  "symbols": 226,
+  "symbols": 232,
   "unique_words": 35,
   "stopwords_words": 13,
   "max_word_repeats": 2,
   "sentences": 6,
   "paragraphs": 1,
-  "avg_word_len": 4.8,
+  "avg_word_len": 5.0,
   "avg_sentence_len_words": 6.0,
   "avg_paragraph_len_words": 36.0,
   "dialogue_lines": 0,
@@ -20,7 +20,7 @@
       2
     ],
     [
-      "мастер",
+      "грандмейстер",
       1
     ],
     [

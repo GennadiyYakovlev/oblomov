@@ -1,18 +1,18 @@
 {
   "path": "03_Детство/03_02_Алхимия.md",
   "chapter": "03",
-  "words": 1351,
-  "symbols": 9001,
-  "unique_words": 829,
-  "stopwords_words": 521,
+  "words": 1371,
+  "symbols": 9131,
+  "unique_words": 841,
+  "stopwords_words": 526,
   "max_word_repeats": 5,
-  "sentences": 131,
+  "sentences": 129,
   "paragraphs": 1,
   "avg_word_len": 5.4,
-  "avg_sentence_len_words": 10.3,
-  "avg_paragraph_len_words": 1351.0,
+  "avg_sentence_len_words": 10.6,
+  "avg_paragraph_len_words": 1371.0,
   "dialogue_lines": 0,
-  "lines": 56,
+  "lines": 55,
   "dialogue_share_percent": 0.0,
   "top_words": [
     [
@@ -29,6 +29,10 @@
     ],
     [
       "очень",
+      4
+    ],
+    [
+      "андрей",
       4
     ],
     [
@@ -65,10 +69,6 @@
     ],
     [
       "такие",
-      3
-    ],
-    [
-      "андрей",
       3
     ],
     [

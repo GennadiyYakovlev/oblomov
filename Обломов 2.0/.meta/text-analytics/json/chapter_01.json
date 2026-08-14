@@ -6,17 +6,17 @@
     "01_Система/01_02_Дискотека чемпионов.md",
     "01_Система/01_03_Разговор с Джорджи.md"
   ],
-  "words": 3760,
-  "symbols": 25132,
-  "lexicon_size": 1947,
+  "words": 3789,
+  "symbols": 25312,
+  "lexicon_size": 1952,
   "wateriness": 37.5,
   "nausea": 0.9,
-  "sentences": 358,
+  "sentences": 359,
   "paragraphs": 4,
   "avg_word_len": 5.4,
   "lexical_richness": 1.9,
-  "avg_sentence_len_words": 10.5,
-  "avg_paragraph_len_words": 940.0,
+  "avg_sentence_len_words": 10.6,
+  "avg_paragraph_len_words": 947.2,
   "top_words": [
     [
       "джорджи",
@@ -24,7 +24,7 @@
     ],
     [
       "андрей",
-      9
+      10
     ],
     [
       "тебе",
@@ -87,7 +87,7 @@
       5
     ],
     [
-      "матиуша",
+      "матеуша",
       5
     ],
     [

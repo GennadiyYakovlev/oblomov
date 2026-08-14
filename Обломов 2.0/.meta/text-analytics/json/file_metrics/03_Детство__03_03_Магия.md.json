@@ -1,16 +1,16 @@
 {
   "path": "03_Детство/03_03_Магия.md",
   "chapter": "03",
-  "words": 1032,
-  "symbols": 7184,
-  "unique_words": 711,
-  "stopwords_words": 335,
+  "words": 1047,
+  "symbols": 7313,
+  "unique_words": 722,
+  "stopwords_words": 340,
   "max_word_repeats": 4,
-  "sentences": 95,
+  "sentences": 96,
   "paragraphs": 1,
-  "avg_word_len": 5.7,
+  "avg_word_len": 5.8,
   "avg_sentence_len_words": 10.9,
-  "avg_paragraph_len_words": 1032.0,
+  "avg_paragraph_len_words": 1047.0,
   "dialogue_lines": 0,
   "lines": 28,
   "dialogue_share_percent": 0.0,
@@ -68,7 +68,7 @@
       3
     ],
     [
-      "авдей",
+      "тарас",
       3
     ],
     [
@@ -104,7 +104,7 @@
       2
     ],
     [
-      "источник",
+      "магический",
       2
     ],
     [
