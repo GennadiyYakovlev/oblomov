@@ -1,16 +1,16 @@
 {
   "path": "01_Система/01_01_Пролог.md",
   "chapter": "01",
-  "words": 1290,
-  "symbols": 8741,
-  "unique_words": 792,
-  "stopwords_words": 468,
+  "words": 1298,
+  "symbols": 8816,
+  "unique_words": 797,
+  "stopwords_words": 471,
   "max_word_repeats": 9,
-  "sentences": 128,
+  "sentences": 127,
   "paragraphs": 1,
   "avg_word_len": 5.5,
-  "avg_sentence_len_words": 10.1,
-  "avg_paragraph_len_words": 1290.0,
+  "avg_sentence_len_words": 10.2,
+  "avg_paragraph_len_words": 1298.0,
   "dialogue_lines": 0,
   "lines": 56,
   "dialogue_share_percent": 0.0,
@@ -20,15 +20,15 @@
       9
     ],
     [
-      "обед",
+      "илья",
       8
     ],
     [
-      "илья",
-      7
+      "анна",
+      6
     ],
     [
-      "анна",
+      "обед",
       6
     ],
     [
@@ -49,10 +49,6 @@
     ],
     [
       "вообще",
-      4
-    ],
-    [
-      "фамильный",
       4
     ],
     [
@@ -92,11 +88,15 @@
       3
     ],
     [
+      "фамильный",
+      3
+    ],
+    [
       "тебе",
       3
     ],
     [
-      "снова",
+      "приглашения",
       3
     ],
     [

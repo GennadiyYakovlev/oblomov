@@ -2,10 +2,10 @@
   "path": "02_Откат/02_02_Откат.md",
   "chapter": "02",
   "words": 686,
-  "symbols": 4675,
-  "unique_words": 454,
-  "stopwords_words": 248,
-  "max_word_repeats": 5,
+  "symbols": 4678,
+  "unique_words": 459,
+  "stopwords_words": 245,
+  "max_word_repeats": 4,
   "sentences": 51,
   "paragraphs": 1,
   "avg_word_len": 5.6,
@@ -15,10 +15,6 @@
   "lines": 13,
   "dialogue_share_percent": 0.0,
   "top_words": [
-    [
-      "времени",
-      5
-    ],
     [
       "способность",
       4
@@ -36,6 +32,10 @@
       4
     ],
     [
+      "хроно",
+      3
+    ],
+    [
       "отката",
       3
     ],
@@ -45,6 +45,10 @@
     ],
     [
       "чуть",
+      3
+    ],
+    [
+      "времени",
       3
     ],
     [
@@ -129,10 +133,6 @@
     ],
     [
       "воспоминаний",
-      2
-    ],
-    [
-      "информации",
       2
     ]
   ]

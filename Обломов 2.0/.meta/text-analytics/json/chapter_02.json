@@ -6,17 +6,17 @@
     "02_Откат/02_02_Откат.md",
     "02_Откат/02_03_Офис.md"
   ],
-  "words": 3498,
-  "symbols": 23423,
-  "lexicon_size": 1866,
-  "wateriness": 35.8,
+  "words": 3481,
+  "symbols": 23348,
+  "lexicon_size": 1869,
+  "wateriness": 35.5,
   "nausea": 0.7,
-  "sentences": 319,
+  "sentences": 318,
   "paragraphs": 4,
   "avg_word_len": 5.5,
   "lexical_richness": 1.9,
-  "avg_sentence_len_words": 11.0,
-  "avg_paragraph_len_words": 874.5,
+  "avg_sentence_len_words": 10.9,
+  "avg_paragraph_len_words": 870.2,
   "top_words": [
     [
       "джорджи",
@@ -60,10 +60,6 @@
     ],
     [
       "очень",
-      5
-    ],
-    [
-      "времени",
       5
     ],
     [
@@ -136,6 +132,10 @@
     ],
     [
       "многие",
+      3
+    ],
+    [
+      "эта",
       3
     ]
   ]

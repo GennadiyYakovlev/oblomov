@@ -1,20 +1,24 @@
 {
   "path": "03_Детство/03_03_Магия.md",
   "chapter": "03",
-  "words": 1047,
-  "symbols": 7315,
-  "unique_words": 722,
-  "stopwords_words": 340,
+  "words": 1075,
+  "symbols": 7538,
+  "unique_words": 742,
+  "stopwords_words": 347,
   "max_word_repeats": 4,
-  "sentences": 96,
+  "sentences": 101,
   "paragraphs": 1,
   "avg_word_len": 5.8,
-  "avg_sentence_len_words": 10.9,
-  "avg_paragraph_len_words": 1047.0,
+  "avg_sentence_len_words": 10.6,
+  "avg_paragraph_len_words": 1075.0,
   "dialogue_lines": 0,
-  "lines": 28,
+  "lines": 29,
   "dialogue_share_percent": 0.0,
   "top_words": [
+    [
+      "васька",
+      4
+    ],
     [
       "захарка",
       4
@@ -33,6 +37,10 @@
     ],
     [
       "своих",
+      3
+    ],
+    [
+      "ванька",
       3
     ],
     [
@@ -85,14 +93,6 @@
     ],
     [
       "пыталась",
-      2
-    ],
-    [
-      "васька",
-      2
-    ],
-    [
-      "ванька",
       2
     ],
     [

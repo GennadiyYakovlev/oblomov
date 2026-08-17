@@ -1,23 +1,27 @@
 {
   "path": "04_Визит/04_02_Дуэль.md",
   "chapter": "04",
-  "words": 1032,
-  "symbols": 6979,
-  "unique_words": 665,
-  "stopwords_words": 372,
+  "words": 1061,
+  "symbols": 7183,
+  "unique_words": 685,
+  "stopwords_words": 382,
   "max_word_repeats": 6,
-  "sentences": 81,
+  "sentences": 82,
   "paragraphs": 1,
   "avg_word_len": 5.5,
-  "avg_sentence_len_words": 12.7,
-  "avg_paragraph_len_words": 1032.0,
+  "avg_sentence_len_words": 12.9,
+  "avg_paragraph_len_words": 1061.0,
   "dialogue_lines": 0,
-  "lines": 31,
+  "lines": 32,
   "dialogue_share_percent": 0.0,
   "top_words": [
     [
       "сиятельство",
       6
+    ],
+    [
+      "чуть",
+      5
     ],
     [
       "князь",
@@ -29,10 +33,6 @@
     ],
     [
       "штольцем",
-      4
-    ],
-    [
-      "чуть",
       4
     ],
     [
@@ -100,10 +100,6 @@
       2
     ],
     [
-      "конечно",
-      2
-    ],
-    [
       "делали",
       2
     ],
@@ -133,6 +129,10 @@
     ],
     [
       "айкидо",
+      2
+    ],
+    [
+      "штольц",
       2
     ]
   ]

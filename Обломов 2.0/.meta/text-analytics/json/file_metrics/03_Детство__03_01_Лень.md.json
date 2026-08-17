@@ -1,34 +1,34 @@
 {
   "path": "03_Детство/03_01_Лень.md",
   "chapter": "03",
-  "words": 587,
-  "symbols": 3994,
-  "unique_words": 415,
-  "stopwords_words": 200,
-  "max_word_repeats": 3,
+  "words": 593,
+  "symbols": 4023,
+  "unique_words": 414,
+  "stopwords_words": 204,
+  "max_word_repeats": 4,
   "sentences": 54,
   "paragraphs": 1,
   "avg_word_len": 5.5,
-  "avg_sentence_len_words": 10.9,
-  "avg_paragraph_len_words": 587.0,
+  "avg_sentence_len_words": 11.0,
+  "avg_paragraph_len_words": 593.0,
   "dialogue_lines": 0,
   "lines": 24,
   "dialogue_share_percent": 0.0,
   "top_words": [
+    [
+      "штольц",
+      4
+    ],
+    [
+      "карандаш",
+      4
+    ],
     [
       "синий",
       3
     ],
     [
       "зеленый",
-      3
-    ],
-    [
-      "штольц",
-      3
-    ],
-    [
-      "карандаш",
       3
     ],
     [
@@ -69,6 +69,10 @@
     ],
     [
       "андрейка",
+      2
+    ],
+    [
+      "вообще",
       2
     ],
     [
@@ -129,10 +133,6 @@
     ],
     [
       "илья",
-      1
-    ],
-    [
-      "сделай",
       1
     ]
   ]

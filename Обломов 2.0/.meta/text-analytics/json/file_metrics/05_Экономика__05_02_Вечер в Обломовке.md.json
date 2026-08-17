@@ -1,18 +1,18 @@
 {
   "path": "05_Экономика/05_02_Вечер в Обломовке.md",
   "chapter": "05",
-  "words": 339,
-  "symbols": 2331,
-  "unique_words": 271,
-  "stopwords_words": 112,
+  "words": 475,
+  "symbols": 3261,
+  "unique_words": 364,
+  "stopwords_words": 161,
   "max_word_repeats": 3,
-  "sentences": 29,
+  "sentences": 34,
   "paragraphs": 1,
   "avg_word_len": 5.6,
-  "avg_sentence_len_words": 11.7,
-  "avg_paragraph_len_words": 339.0,
+  "avg_sentence_len_words": 14.0,
+  "avg_paragraph_len_words": 475.0,
   "dialogue_lines": 0,
-  "lines": 16,
+  "lines": 17,
   "dialogue_share_percent": 0.0,
   "top_words": [
     [
@@ -32,11 +32,23 @@
       2
     ],
     [
-      "андрей",
+      "обломовке",
       2
     ],
     [
-      "наши",
+      "приходилось",
+      2
+    ],
+    [
+      "вполне",
+      2
+    ],
+    [
+      "вечера",
+      2
+    ],
+    [
+      "ужина",
       2
     ],
     [
@@ -121,18 +133,6 @@
     ],
     [
       "шестой",
-      1
-    ],
-    [
-      "старый",
-      1
-    ],
-    [
-      "старится",
-      1
-    ],
-    [
-      "молодой",
       1
     ]
   ]

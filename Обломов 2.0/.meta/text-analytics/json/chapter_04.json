@@ -5,17 +5,17 @@
     "04_Визит/04_01_Прием.md",
     "04_Визит/04_02_Дуэль.md"
   ],
-  "words": 2325,
-  "symbols": 16183,
-  "lexicon_size": 1386,
+  "words": 2354,
+  "symbols": 16387,
+  "lexicon_size": 1405,
   "wateriness": 34.7,
   "nausea": 0.6,
-  "sentences": 179,
+  "sentences": 180,
   "paragraphs": 3,
   "avg_word_len": 5.7,
   "lexical_richness": 1.7,
-  "avg_sentence_len_words": 13.0,
-  "avg_paragraph_len_words": 775.0,
+  "avg_sentence_len_words": 13.1,
+  "avg_paragraph_len_words": 784.7,
   "top_words": [
     [
       "сиятельство",
@@ -34,16 +34,16 @@
       5
     ],
     [
+      "чуть",
+      5
+    ],
+    [
       "князь",
       5
     ],
     [
       "ваше",
       5
-    ],
-    [
-      "чуть",
-      4
     ],
     [
       "андрей",
