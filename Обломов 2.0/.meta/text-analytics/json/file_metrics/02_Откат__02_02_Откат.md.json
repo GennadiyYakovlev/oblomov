@@ -1,16 +1,16 @@
 {
   "path": "02_Откат/02_02_Откат.md",
   "chapter": "02",
-  "words": 686,
-  "symbols": 4678,
-  "unique_words": 459,
-  "stopwords_words": 245,
+  "words": 689,
+  "symbols": 4706,
+  "unique_words": 462,
+  "stopwords_words": 244,
   "max_word_repeats": 4,
   "sentences": 51,
   "paragraphs": 1,
-  "avg_word_len": 5.6,
+  "avg_word_len": 5.7,
   "avg_sentence_len_words": 13.5,
-  "avg_paragraph_len_words": 686.0,
+  "avg_paragraph_len_words": 689.0,
   "dialogue_lines": 0,
   "lines": 13,
   "dialogue_share_percent": 0.0,
@@ -32,15 +32,15 @@
       4
     ],
     [
+      "абилку",
+      3
+    ],
+    [
       "хроно",
       3
     ],
     [
       "отката",
-      3
-    ],
-    [
-      "абилку",
       3
     ],
     [

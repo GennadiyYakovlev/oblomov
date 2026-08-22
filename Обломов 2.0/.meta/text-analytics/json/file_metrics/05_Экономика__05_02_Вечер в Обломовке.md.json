@@ -1,18 +1,18 @@
 {
   "path": "05_Экономика/05_02_Вечер в Обломовке.md",
   "chapter": "05",
-  "words": 475,
-  "symbols": 3261,
-  "unique_words": 364,
-  "stopwords_words": 161,
+  "words": 582,
+  "symbols": 3953,
+  "unique_words": 436,
+  "stopwords_words": 202,
   "max_word_repeats": 3,
-  "sentences": 34,
+  "sentences": 46,
   "paragraphs": 1,
-  "avg_word_len": 5.6,
-  "avg_sentence_len_words": 14.0,
-  "avg_paragraph_len_words": 475.0,
+  "avg_word_len": 5.5,
+  "avg_sentence_len_words": 12.7,
+  "avg_paragraph_len_words": 582.0,
   "dialogue_lines": 0,
-  "lines": 17,
+  "lines": 19,
   "dialogue_share_percent": 0.0,
   "top_words": [
     [
@@ -21,6 +21,10 @@
     ],
     [
       "бог",
+      2
+    ],
+    [
+      "вчера",
       2
     ],
     [
@@ -41,6 +45,14 @@
     ],
     [
       "вполне",
+      2
+    ],
+    [
+      "маменька",
+      2
+    ],
+    [
+      "время",
       2
     ],
     [
@@ -77,6 +89,10 @@
     ],
     [
       "здоровый",
+      1
+    ],
+    [
+      "равно",
       1
     ],
     [
@@ -117,22 +133,6 @@
     ],
     [
       "говорят",
-      1
-    ],
-    [
-      "анна",
-      1
-    ],
-    [
-      "андреевна",
-      1
-    ],
-    [
-      "родила",
-      1
-    ],
-    [
-      "шестой",
       1
     ]
   ]

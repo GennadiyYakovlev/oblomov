@@ -1,16 +1,16 @@
 {
   "path": "01_Система/01_01_Пролог.md",
   "chapter": "01",
-  "words": 1298,
-  "symbols": 8816,
-  "unique_words": 797,
-  "stopwords_words": 471,
+  "words": 1310,
+  "symbols": 8876,
+  "unique_words": 802,
+  "stopwords_words": 477,
   "max_word_repeats": 9,
-  "sentences": 127,
+  "sentences": 128,
   "paragraphs": 1,
   "avg_word_len": 5.5,
   "avg_sentence_len_words": 10.2,
-  "avg_paragraph_len_words": 1298.0,
+  "avg_paragraph_len_words": 1310.0,
   "dialogue_lines": 0,
   "lines": 56,
   "dialogue_share_percent": 0.0,
@@ -32,6 +32,10 @@
       6
     ],
     [
+      "друг",
+      5
+    ],
+    [
       "сергеевна",
       5
     ],
@@ -41,10 +45,6 @@
     ],
     [
       "штольц",
-      4
-    ],
-    [
-      "друг",
       4
     ],
     [

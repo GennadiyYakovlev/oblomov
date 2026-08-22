@@ -1,16 +1,16 @@
 {
   "path": "01_Система/01_02_Дискотека чемпионов.md",
   "chapter": "01",
-  "words": 959,
-  "symbols": 6564,
-  "unique_words": 645,
-  "stopwords_words": 333,
+  "words": 977,
+  "symbols": 6708,
+  "unique_words": 658,
+  "stopwords_words": 336,
   "max_word_repeats": 9,
-  "sentences": 64,
+  "sentences": 66,
   "paragraphs": 1,
   "avg_word_len": 5.7,
-  "avg_sentence_len_words": 15.0,
-  "avg_paragraph_len_words": 959.0,
+  "avg_sentence_len_words": 14.8,
+  "avg_paragraph_len_words": 977.0,
   "dialogue_lines": 0,
   "lines": 22,
   "dialogue_share_percent": 0.0,
@@ -18,6 +18,10 @@
     [
       "джорджи",
       9
+    ],
+    [
+      "чемпиона",
+      4
     ],
     [
       "стелла",
@@ -36,11 +40,11 @@
       3
     ],
     [
-      "чемпиона",
+      "аспект",
       3
     ],
     [
-      "аспект",
+      "лично",
       3
     ],
     [
@@ -129,10 +133,6 @@
     ],
     [
       "матеуш",
-      2
-    ],
-    [
-      "мое",
       2
     ]
   ]

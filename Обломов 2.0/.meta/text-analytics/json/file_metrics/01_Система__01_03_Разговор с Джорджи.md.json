@@ -1,16 +1,16 @@
 {
   "path": "01_Система/01_03_Разговор с Джорджи.md",
   "chapter": "01",
-  "words": 1502,
-  "symbols": 9814,
-  "unique_words": 826,
-  "stopwords_words": 599,
+  "words": 1506,
+  "symbols": 9844,
+  "unique_words": 828,
+  "stopwords_words": 601,
   "max_word_repeats": 13,
   "sentences": 161,
   "paragraphs": 1,
   "avg_word_len": 5.2,
-  "avg_sentence_len_words": 9.3,
-  "avg_paragraph_len_words": 1502.0,
+  "avg_sentence_len_words": 9.4,
+  "avg_paragraph_len_words": 1506.0,
   "dialogue_lines": 0,
   "lines": 55,
   "dialogue_share_percent": 0.0,
@@ -112,10 +112,6 @@
       3
     ],
     [
-      "лорда",
-      3
-    ],
-    [
       "пока",
       3
     ],
@@ -133,6 +129,10 @@
     ],
     [
       "снова",
+      3
+    ],
+    [
+      "аспекта",
       3
     ]
   ]

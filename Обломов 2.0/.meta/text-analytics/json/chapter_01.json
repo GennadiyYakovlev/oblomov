@@ -6,17 +6,17 @@
     "01_Система/01_02_Дискотека чемпионов.md",
     "01_Система/01_03_Разговор с Джорджи.md"
   ],
-  "words": 3795,
-  "symbols": 25426,
-  "lexicon_size": 1961,
+  "words": 3829,
+  "symbols": 25660,
+  "lexicon_size": 1981,
   "wateriness": 37.3,
   "nausea": 0.9,
-  "sentences": 358,
+  "sentences": 361,
   "paragraphs": 4,
   "avg_word_len": 5.4,
   "lexical_richness": 1.9,
   "avg_sentence_len_words": 10.6,
-  "avg_paragraph_len_words": 948.8,
+  "avg_paragraph_len_words": 957.2,
   "top_words": [
     [
       "джорджи",
@@ -75,6 +75,10 @@
       5
     ],
     [
+      "друг",
+      5
+    ],
+    [
       "сергеевна",
       5
     ],
@@ -103,11 +107,11 @@
       4
     ],
     [
-      "друг",
+      "вообще",
       4
     ],
     [
-      "вообще",
+      "чемпиона",
       4
     ],
     [
@@ -132,10 +136,6 @@
     ],
     [
       "час",
-      4
-    ],
-    [
-      "давай",
       4
     ]
   ]

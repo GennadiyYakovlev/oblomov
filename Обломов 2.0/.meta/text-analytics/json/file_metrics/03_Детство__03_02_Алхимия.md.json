@@ -1,16 +1,16 @@
 {
   "path": "03_Детство/03_02_Алхимия.md",
   "chapter": "03",
-  "words": 1371,
-  "symbols": 9132,
-  "unique_words": 841,
-  "stopwords_words": 526,
+  "words": 1406,
+  "symbols": 9363,
+  "unique_words": 866,
+  "stopwords_words": 538,
   "max_word_repeats": 5,
-  "sentences": 129,
+  "sentences": 130,
   "paragraphs": 1,
   "avg_word_len": 5.4,
-  "avg_sentence_len_words": 10.6,
-  "avg_paragraph_len_words": 1371.0,
+  "avg_sentence_len_words": 10.8,
+  "avg_paragraph_len_words": 1406.0,
   "dialogue_lines": 0,
   "lines": 55,
   "dialogue_share_percent": 0.0,
@@ -29,10 +29,6 @@
     ],
     [
       "очень",
-      4
-    ],
-    [
-      "андрей",
       4
     ],
     [
@@ -56,10 +52,6 @@
       3
     ],
     [
-      "домой",
-      3
-    ],
-    [
       "обычно",
       3
     ],
@@ -68,7 +60,15 @@
       3
     ],
     [
+      "вестник",
+      3
+    ],
+    [
       "такие",
+      3
+    ],
+    [
+      "андрей",
       3
     ],
     [

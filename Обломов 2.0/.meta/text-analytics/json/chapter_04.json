@@ -5,17 +5,17 @@
     "04_Визит/04_01_Прием.md",
     "04_Визит/04_02_Дуэль.md"
   ],
-  "words": 2354,
-  "symbols": 16387,
-  "lexicon_size": 1405,
+  "words": 2501,
+  "symbols": 17424,
+  "lexicon_size": 1485,
   "wateriness": 34.7,
-  "nausea": 0.6,
-  "sentences": 180,
+  "nausea": 0.5,
+  "sentences": 187,
   "paragraphs": 3,
   "avg_word_len": 5.7,
   "lexical_richness": 1.7,
-  "avg_sentence_len_words": 13.1,
-  "avg_paragraph_len_words": 784.7,
+  "avg_sentence_len_words": 13.4,
+  "avg_paragraph_len_words": 833.7,
   "top_words": [
     [
       "сиятельство",
@@ -46,15 +46,23 @@
       5
     ],
     [
+      "хилковы",
+      4
+    ],
+    [
+      "очень",
+      4
+    ],
+    [
       "андрей",
       3
     ],
     [
-      "хованские",
+      "гостей",
       3
     ],
     [
-      "гостей",
+      "империи",
       3
     ],
     [
@@ -127,14 +135,6 @@
     ],
     [
       "нос",
-      2
-    ],
-    [
-      "обошлись",
-      2
-    ],
-    [
-      "статус",
       2
     ]
   ]

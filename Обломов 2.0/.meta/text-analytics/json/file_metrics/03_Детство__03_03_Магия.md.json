@@ -1,18 +1,18 @@
 {
   "path": "03_Детство/03_03_Магия.md",
   "chapter": "03",
-  "words": 1075,
-  "symbols": 7538,
-  "unique_words": 742,
-  "stopwords_words": 347,
+  "words": 1135,
+  "symbols": 7995,
+  "unique_words": 778,
+  "stopwords_words": 367,
   "max_word_repeats": 4,
-  "sentences": 101,
+  "sentences": 104,
   "paragraphs": 1,
   "avg_word_len": 5.8,
-  "avg_sentence_len_words": 10.6,
-  "avg_paragraph_len_words": 1075.0,
+  "avg_sentence_len_words": 10.9,
+  "avg_paragraph_len_words": 1135.0,
   "dialogue_lines": 0,
-  "lines": 29,
+  "lines": 32,
   "dialogue_share_percent": 0.0,
   "top_words": [
     [
@@ -49,6 +49,10 @@
     ],
     [
       "снова",
+      3
+    ],
+    [
+      "год",
       3
     ],
     [
@@ -100,15 +104,15 @@
       2
     ],
     [
-      "поэтому",
-      2
-    ],
-    [
       "магический",
       2
     ],
     [
-      "вокруг",
+      "уровня",
+      2
+    ],
+    [
+      "таких",
       2
     ],
     [
@@ -116,11 +120,11 @@
       2
     ],
     [
-      "инспектор",
+      "медитации",
       2
     ],
     [
-      "год",
+      "инспектор",
       2
     ],
     [
@@ -129,10 +133,6 @@
     ],
     [
       "штольца",
-      2
-    ],
-    [
-      "мог",
       2
     ]
   ]

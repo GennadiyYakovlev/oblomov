@@ -1,18 +1,18 @@
 {
   "path": "04_Визит/04_02_Дуэль.md",
   "chapter": "04",
-  "words": 1061,
-  "symbols": 7183,
-  "unique_words": 685,
-  "stopwords_words": 382,
+  "words": 1080,
+  "symbols": 7334,
+  "unique_words": 699,
+  "stopwords_words": 387,
   "max_word_repeats": 6,
   "sentences": 82,
   "paragraphs": 1,
-  "avg_word_len": 5.5,
-  "avg_sentence_len_words": 12.9,
-  "avg_paragraph_len_words": 1061.0,
+  "avg_word_len": 5.6,
+  "avg_sentence_len_words": 13.2,
+  "avg_paragraph_len_words": 1080.0,
   "dialogue_lines": 0,
-  "lines": 32,
+  "lines": 33,
   "dialogue_share_percent": 0.0,
   "top_words": [
     [
@@ -72,7 +72,7 @@
       2
     ],
     [
-      "хованских",
+      "хилковых",
       2
     ],
     [
@@ -85,6 +85,14 @@
     ],
     [
       "пришлось",
+      2
+    ],
+    [
+      "лет",
+      2
+    ],
+    [
+      "назад",
       2
     ],
     [
@@ -124,15 +132,7 @@
       2
     ],
     [
-      "хованский",
-      2
-    ],
-    [
       "айкидо",
-      2
-    ],
-    [
-      "штольц",
       2
     ]
   ]

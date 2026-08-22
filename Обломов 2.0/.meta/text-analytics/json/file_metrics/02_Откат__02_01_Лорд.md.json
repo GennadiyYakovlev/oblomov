@@ -1,18 +1,18 @@
 {
   "path": "02_Откат/02_01_Лорд.md",
   "chapter": "02",
-  "words": 1256,
-  "symbols": 8605,
-  "unique_words": 788,
-  "stopwords_words": 426,
+  "words": 1392,
+  "symbols": 9506,
+  "unique_words": 868,
+  "stopwords_words": 468,
   "max_word_repeats": 13,
-  "sentences": 123,
+  "sentences": 137,
   "paragraphs": 1,
   "avg_word_len": 5.6,
   "avg_sentence_len_words": 10.2,
-  "avg_paragraph_len_words": 1256.0,
+  "avg_paragraph_len_words": 1392.0,
   "dialogue_lines": 0,
-  "lines": 43,
+  "lines": 47,
   "dialogue_share_percent": 0.0,
   "top_words": [
     [
@@ -29,6 +29,10 @@
     ],
     [
       "илия",
+      5
+    ],
+    [
+      "хотя",
       5
     ],
     [
@@ -52,7 +56,7 @@
       4
     ],
     [
-      "хотя",
+      "главное",
       4
     ],
     [
@@ -61,6 +65,10 @@
     ],
     [
       "аспекта",
+      3
+    ],
+    [
+      "всего",
       3
     ],
     [
@@ -104,11 +112,11 @@
       3
     ],
     [
-      "памяти",
+      "секунду",
       3
     ],
     [
-      "главное",
+      "памяти",
       3
     ],
     [
@@ -125,14 +133,6 @@
     ],
     [
       "паузу",
-      2
-    ],
-    [
-      "возможность",
-      2
-    ],
-    [
-      "информацию",
       2
     ]
   ]

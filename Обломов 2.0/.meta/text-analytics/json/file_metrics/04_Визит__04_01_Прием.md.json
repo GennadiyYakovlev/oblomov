@@ -1,16 +1,16 @@
 {
   "path": "04_Визит/04_01_Прием.md",
   "chapter": "04",
-  "words": 1226,
-  "symbols": 8778,
-  "unique_words": 826,
-  "stopwords_words": 407,
+  "words": 1354,
+  "symbols": 9664,
+  "unique_words": 897,
+  "stopwords_words": 454,
   "max_word_repeats": 5,
-  "sentences": 93,
+  "sentences": 100,
   "paragraphs": 1,
   "avg_word_len": 5.9,
-  "avg_sentence_len_words": 13.2,
-  "avg_paragraph_len_words": 1226.0,
+  "avg_sentence_len_words": 13.5,
+  "avg_paragraph_len_words": 1354.0,
   "dialogue_lines": 0,
   "lines": 33,
   "dialogue_share_percent": 0.0,
@@ -20,11 +20,15 @@
       5
     ],
     [
-      "хованские",
-      3
+      "хилковы",
+      4
     ],
     [
       "гостей",
+      3
+    ],
+    [
+      "империи",
       3
     ],
     [
@@ -92,15 +96,15 @@
       2
     ],
     [
-      "империи",
-      2
-    ],
-    [
       "мадемуазель",
       2
     ],
     [
       "эрнестина",
+      2
+    ],
+    [
+      "очень",
       2
     ],
     [
@@ -124,15 +128,11 @@
       2
     ],
     [
-      "хозяйки",
+      "хованских",
       2
     ],
     [
-      "приема",
-      2
-    ],
-    [
-      "княжны",
+      "кстати",
       2
     ]
   ]

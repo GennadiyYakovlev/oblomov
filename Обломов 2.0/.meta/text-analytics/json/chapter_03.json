@@ -6,17 +6,17 @@
     "03_Детство/03_02_Алхимия.md",
     "03_Детство/03_03_Магия.md"
   ],
-  "words": 3072,
-  "symbols": 20895,
-  "lexicon_size": 1735,
+  "words": 3168,
+  "symbols": 21594,
+  "lexicon_size": 1791,
   "wateriness": 35.5,
-  "nausea": 0.5,
-  "sentences": 289,
+  "nausea": 0.4,
+  "sentences": 293,
   "paragraphs": 4,
   "avg_word_len": 5.6,
   "lexical_richness": 1.8,
-  "avg_sentence_len_words": 10.6,
-  "avg_paragraph_len_words": 768.0,
+  "avg_sentence_len_words": 10.8,
+  "avg_paragraph_len_words": 792.0,
   "top_words": [
     [
       "штольц",
@@ -24,7 +24,7 @@
     ],
     [
       "год",
-      5
+      6
     ],
     [
       "всего",
@@ -52,10 +52,6 @@
     ],
     [
       "очень",
-      4
-    ],
-    [
-      "андрей",
       4
     ],
     [
@@ -107,10 +103,6 @@
       3
     ],
     [
-      "домой",
-      3
-    ],
-    [
       "обычно",
       3
     ],
@@ -119,7 +111,15 @@
       3
     ],
     [
+      "вестник",
+      3
+    ],
+    [
       "такие",
+      3
+    ],
+    [
+      "андрей",
       3
     ],
     [
