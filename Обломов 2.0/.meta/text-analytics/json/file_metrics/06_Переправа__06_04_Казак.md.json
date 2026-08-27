@@ -1,26 +1,26 @@
 {
   "path": "06_Переправа/06_04_Казак.md",
   "chapter": "06",
-  "words": 884,
-  "symbols": 6222,
-  "unique_words": 589,
-  "stopwords_words": 280,
-  "max_word_repeats": 7,
-  "sentences": 83,
+  "words": 941,
+  "symbols": 6626,
+  "unique_words": 627,
+  "stopwords_words": 305,
+  "max_word_repeats": 8,
+  "sentences": 86,
   "paragraphs": 1,
   "avg_word_len": 5.8,
-  "avg_sentence_len_words": 10.7,
-  "avg_paragraph_len_words": 884.0,
-  "dialogue_lines": 16,
-  "lines": 32,
+  "avg_sentence_len_words": 10.9,
+  "avg_paragraph_len_words": 941.0,
+  "dialogue_lines": 17,
+  "lines": 34,
   "dialogue_share_percent": 50.0,
   "top_words": [
     [
-      "полковник",
-      7
+      "федор",
+      8
     ],
     [
-      "федор",
+      "полковник",
       7
     ],
     [
@@ -33,7 +33,11 @@
     ],
     [
       "стал",
-      5
+      4
+    ],
+    [
+      "чуть",
+      4
     ],
     [
       "урядник",
@@ -64,14 +68,6 @@
       3
     ],
     [
-      "чуть",
-      3
-    ],
-    [
-      "растерялся",
-      3
-    ],
-    [
       "чутка",
       3
     ],
@@ -89,10 +85,6 @@
     ],
     [
       "хотелось",
-      2
-    ],
-    [
-      "просто",
       2
     ],
     [
@@ -128,11 +120,19 @@
       2
     ],
     [
-      "старшего",
+      "который",
       2
     ],
     [
-      "который",
+      "неприятным",
+      2
+    ],
+    [
+      "лично",
+      2
+    ],
+    [
+      "урядника",
       2
     ]
   ]

@@ -1,31 +1,31 @@
 {
   "path": "06_Переправа/06_03_Драка.md",
   "chapter": "06",
-  "words": 2209,
-  "symbols": 14537,
-  "unique_words": 1198,
-  "stopwords_words": 844,
-  "max_word_repeats": 11,
-  "sentences": 196,
+  "words": 2240,
+  "symbols": 14803,
+  "unique_words": 1222,
+  "stopwords_words": 852,
+  "max_word_repeats": 10,
+  "sentences": 198,
   "paragraphs": 1,
   "avg_word_len": 5.3,
   "avg_sentence_len_words": 11.3,
-  "avg_paragraph_len_words": 2209.0,
+  "avg_paragraph_len_words": 2240.0,
   "dialogue_lines": 36,
-  "lines": 86,
-  "dialogue_share_percent": 41.9,
+  "lines": 87,
+  "dialogue_share_percent": 41.4,
   "top_words": [
     [
       "полковник",
-      11
+      10
+    ],
+    [
+      "офицер",
+      8
     ],
     [
       "есаул",
       8
-    ],
-    [
-      "офицер",
-      6
     ],
     [
       "хорунжий",
@@ -38,10 +38,6 @@
     [
       "рублей",
       6
-    ],
-    [
-      "стал",
-      5
     ],
     [
       "взгляд",
@@ -72,6 +68,10 @@
       4
     ],
     [
+      "стал",
+      4
+    ],
+    [
       "казачков",
       4
     ],
@@ -92,14 +92,6 @@
       4
     ],
     [
-      "ко",
-      3
-    ],
-    [
-      "спиной",
-      3
-    ],
-    [
       "вещи",
       3
     ],
@@ -109,10 +101,6 @@
     ],
     [
       "несколько",
-      3
-    ],
-    [
-      "рядовые",
       3
     ],
     [
@@ -133,6 +121,18 @@
     ],
     [
       "голову",
+      3
+    ],
+    [
+      "случай",
+      3
+    ],
+    [
+      "рукой",
+      3
+    ],
+    [
+      "снова",
       3
     ]
   ]

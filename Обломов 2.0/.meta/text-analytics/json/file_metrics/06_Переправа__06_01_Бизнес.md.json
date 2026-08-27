@@ -1,16 +1,16 @@
 {
   "path": "06_Переправа/06_01_Бизнес.md",
   "chapter": "06",
-  "words": 664,
-  "symbols": 4615,
-  "unique_words": 477,
-  "stopwords_words": 232,
+  "words": 669,
+  "symbols": 4640,
+  "unique_words": 479,
+  "stopwords_words": 235,
   "max_word_repeats": 3,
   "sentences": 39,
   "paragraphs": 1,
-  "avg_word_len": 5.8,
-  "avg_sentence_len_words": 17.0,
-  "avg_paragraph_len_words": 664.0,
+  "avg_word_len": 5.7,
+  "avg_sentence_len_words": 17.2,
+  "avg_paragraph_len_words": 669.0,
   "dialogue_lines": 0,
   "lines": 16,
   "dialogue_share_percent": 0.0,
@@ -104,7 +104,7 @@
       1
     ],
     [
-      "четырнадцатый",
+      "шестнадцатый",
       1
     ],
     [

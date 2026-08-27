@@ -1,19 +1,19 @@
 {
   "path": "06_Переправа/06_02_Рисунок.md",
   "chapter": "06",
-  "words": 1286,
-  "symbols": 8933,
-  "unique_words": 853,
-  "stopwords_words": 396,
+  "words": 1322,
+  "symbols": 9191,
+  "unique_words": 875,
+  "stopwords_words": 407,
   "max_word_repeats": 8,
-  "sentences": 95,
+  "sentences": 100,
   "paragraphs": 1,
   "avg_word_len": 5.7,
-  "avg_sentence_len_words": 13.5,
-  "avg_paragraph_len_words": 1286.0,
+  "avg_sentence_len_words": 13.2,
+  "avg_paragraph_len_words": 1322.0,
   "dialogue_lines": 13,
-  "lines": 41,
-  "dialogue_share_percent": 31.7,
+  "lines": 42,
+  "dialogue_share_percent": 31.0,
   "top_words": [
     [
       "мария",
@@ -24,11 +24,11 @@
       5
     ],
     [
-      "илья",
-      4
+      "принцесса",
+      5
     ],
     [
-      "принцесса",
+      "илья",
       4
     ],
     [
@@ -65,10 +65,6 @@
     ],
     [
       "взгляд",
-      3
-    ],
-    [
-      "девушка",
       3
     ],
     [
@@ -133,6 +129,10 @@
     ],
     [
       "остановки",
+      2
+    ],
+    [
+      "перед",
       2
     ]
   ]
