@@ -1,27 +1,27 @@
 {
   "path": "06_Переправа/06_04_Казак.md",
   "chapter": "06",
-  "words": 941,
-  "symbols": 6626,
-  "unique_words": 627,
-  "stopwords_words": 305,
-  "max_word_repeats": 8,
-  "sentences": 86,
+  "words": 1043,
+  "symbols": 7243,
+  "unique_words": 691,
+  "stopwords_words": 345,
+  "max_word_repeats": 9,
+  "sentences": 93,
   "paragraphs": 1,
-  "avg_word_len": 5.8,
-  "avg_sentence_len_words": 10.9,
-  "avg_paragraph_len_words": 941.0,
+  "avg_word_len": 5.7,
+  "avg_sentence_len_words": 11.2,
+  "avg_paragraph_len_words": 1043.0,
   "dialogue_lines": 17,
   "lines": 34,
   "dialogue_share_percent": 50.0,
   "top_words": [
     [
       "федор",
-      8
+      9
     ],
     [
       "полковник",
-      7
+      8
     ],
     [
       "иван",
@@ -37,10 +37,6 @@
     ],
     [
       "чуть",
-      4
-    ],
-    [
-      "урядник",
       4
     ],
     [
@@ -60,7 +56,15 @@
       3
     ],
     [
+      "урядника",
+      3
+    ],
+    [
       "атаману",
+      3
+    ],
+    [
+      "урядник",
       3
     ],
     [
@@ -100,6 +104,10 @@
       2
     ],
     [
+      "целый",
+      2
+    ],
+    [
       "княжны",
       2
     ],
@@ -125,14 +133,6 @@
     ],
     [
       "неприятным",
-      2
-    ],
-    [
-      "лично",
-      2
-    ],
-    [
-      "урядника",
       2
     ]
   ]

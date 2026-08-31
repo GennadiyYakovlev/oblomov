@@ -1,31 +1,35 @@
 {
   "path": "06_Переправа/06_03_Драка.md",
   "chapter": "06",
-  "words": 2240,
-  "symbols": 14803,
-  "unique_words": 1222,
-  "stopwords_words": 852,
+  "words": 2276,
+  "symbols": 15064,
+  "unique_words": 1243,
+  "stopwords_words": 863,
   "max_word_repeats": 10,
-  "sentences": 198,
+  "sentences": 203,
   "paragraphs": 1,
-  "avg_word_len": 5.3,
-  "avg_sentence_len_words": 11.3,
-  "avg_paragraph_len_words": 2240.0,
+  "avg_word_len": 5.4,
+  "avg_sentence_len_words": 11.2,
+  "avg_paragraph_len_words": 2276.0,
   "dialogue_lines": 36,
-  "lines": 87,
-  "dialogue_share_percent": 41.4,
+  "lines": 88,
+  "dialogue_share_percent": 40.9,
   "top_words": [
     [
       "полковник",
       10
     ],
     [
-      "офицер",
+      "есаул",
       8
     ],
     [
-      "есаул",
-      8
+      "офицер",
+      7
+    ],
+    [
+      "взгляд",
+      6
     ],
     [
       "хорунжий",
@@ -40,10 +44,6 @@
       6
     ],
     [
-      "взгляд",
-      5
-    ],
-    [
       "штольц",
       5
     ],
@@ -53,10 +53,6 @@
     ],
     [
       "мои",
-      4
-    ],
-    [
-      "принцессы",
       4
     ],
     [
@@ -90,6 +86,10 @@
     [
       "ваше",
       4
+    ],
+    [
+      "обратно",
+      3
     ],
     [
       "вещи",
@@ -128,11 +128,11 @@
       3
     ],
     [
-      "рукой",
+      "принцессы",
       3
     ],
     [
-      "снова",
+      "рукой",
       3
     ]
   ]

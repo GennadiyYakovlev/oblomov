@@ -1,16 +1,16 @@
 {
   "path": "07_Симбирск/07_02_Подвал.md",
   "chapter": "07",
-  "words": 1371,
-  "symbols": 9267,
-  "unique_words": 875,
-  "stopwords_words": 476,
+  "words": 1390,
+  "symbols": 9395,
+  "unique_words": 885,
+  "stopwords_words": 483,
   "max_word_repeats": 7,
-  "sentences": 101,
+  "sentences": 102,
   "paragraphs": 1,
   "avg_word_len": 5.5,
   "avg_sentence_len_words": 13.6,
-  "avg_paragraph_len_words": 1371.0,
+  "avg_paragraph_len_words": 1390.0,
   "dialogue_lines": 17,
   "lines": 36,
   "dialogue_share_percent": 47.2,
@@ -21,6 +21,10 @@
     ],
     [
       "чуть",
+      5
+    ],
+    [
+      "поляк",
       5
     ],
     [
@@ -37,10 +41,6 @@
     ],
     [
       "пока",
-      4
-    ],
-    [
-      "поляк",
       4
     ],
     [

@@ -1,26 +1,30 @@
 {
   "path": "07_Симбирск/07_03_Мафия.md",
   "chapter": "07",
-  "words": 948,
-  "symbols": 6514,
-  "unique_words": 624,
-  "stopwords_words": 343,
-  "max_word_repeats": 9,
-  "sentences": 80,
+  "words": 995,
+  "symbols": 6822,
+  "unique_words": 644,
+  "stopwords_words": 360,
+  "max_word_repeats": 10,
+  "sentences": 89,
   "paragraphs": 1,
-  "avg_word_len": 5.6,
-  "avg_sentence_len_words": 11.8,
-  "avg_paragraph_len_words": 948.0,
+  "avg_word_len": 5.5,
+  "avg_sentence_len_words": 11.2,
+  "avg_paragraph_len_words": 995.0,
   "dialogue_lines": 16,
-  "lines": 47,
-  "dialogue_share_percent": 34.0,
+  "lines": 48,
+  "dialogue_share_percent": 33.3,
   "top_words": [
     [
       "войцех",
-      9
+      10
     ],
     [
       "поляк",
+      6
+    ],
+    [
+      "жарг",
       5
     ],
     [
@@ -52,7 +56,15 @@
       3
     ],
     [
+      "города",
+      3
+    ],
+    [
       "кого",
+      3
+    ],
+    [
+      "начнем",
       3
     ],
     [
@@ -84,6 +96,10 @@
       2
     ],
     [
+      "населения",
+      2
+    ],
+    [
       "всего",
       2
     ],
@@ -108,31 +124,15 @@
       2
     ],
     [
+      "части",
+      2
+    ],
+    [
       "общения",
       2
     ],
     [
       "специально",
-      2
-    ],
-    [
-      "штольц",
-      2
-    ],
-    [
-      "прямо",
-      2
-    ],
-    [
-      "результат",
-      2
-    ],
-    [
-      "рассказать",
-      2
-    ],
-    [
-      "хороводы",
       2
     ]
   ]

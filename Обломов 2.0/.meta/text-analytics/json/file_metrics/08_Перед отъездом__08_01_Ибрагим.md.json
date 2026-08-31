@@ -1,16 +1,16 @@
 {
   "path": "08_Перед отъездом/08_01_Ибрагим.md",
   "chapter": "08",
-  "words": 1506,
-  "symbols": 9915,
-  "unique_words": 899,
-  "stopwords_words": 527,
+  "words": 1532,
+  "symbols": 10125,
+  "unique_words": 910,
+  "stopwords_words": 531,
   "max_word_repeats": 21,
-  "sentences": 105,
+  "sentences": 115,
   "paragraphs": 1,
   "avg_word_len": 5.4,
-  "avg_sentence_len_words": 14.3,
-  "avg_paragraph_len_words": 1506.0,
+  "avg_sentence_len_words": 13.3,
+  "avg_paragraph_len_words": 1532.0,
   "dialogue_lines": 5,
   "lines": 31,
   "dialogue_share_percent": 16.1,
@@ -18,6 +18,10 @@
     [
       "ибрагим",
       21
+    ],
+    [
+      "тюрк",
+      10
     ],
     [
       "русских",
@@ -48,6 +52,10 @@
       4
     ],
     [
+      "равно",
+      4
+    ],
+    [
       "рублей",
       4
     ],
@@ -62,10 +70,6 @@
     [
       "люди",
       4
-    ],
-    [
-      "равно",
-      3
     ],
     [
       "земляка",
@@ -129,10 +133,6 @@
     ],
     [
       "племянников",
-      2
-    ],
-    [
-      "симбирска",
       2
     ]
   ]

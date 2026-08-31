@@ -1,23 +1,23 @@
 {
   "path": "07_Симбирск/07_01_Трактир.md",
   "chapter": "07",
-  "words": 2050,
-  "symbols": 13965,
-  "unique_words": 1266,
-  "stopwords_words": 701,
-  "max_word_repeats": 28,
-  "sentences": 188,
+  "words": 2166,
+  "symbols": 14761,
+  "unique_words": 1328,
+  "stopwords_words": 732,
+  "max_word_repeats": 34,
+  "sentences": 203,
   "paragraphs": 1,
   "avg_word_len": 5.5,
-  "avg_sentence_len_words": 10.9,
-  "avg_paragraph_len_words": 2050.0,
+  "avg_sentence_len_words": 10.7,
+  "avg_paragraph_len_words": 2166.0,
   "dialogue_lines": 29,
-  "lines": 66,
-  "dialogue_share_percent": 43.9,
+  "lines": 68,
+  "dialogue_share_percent": 42.6,
   "top_words": [
     [
       "жарг",
-      28
+      34
     ],
     [
       "тихон",
@@ -29,6 +29,10 @@
     ],
     [
       "глаза",
+      4
+    ],
+    [
+      "чуть",
       4
     ],
     [
@@ -56,7 +60,19 @@
       3
     ],
     [
-      "чуть",
+      "наша",
+      3
+    ],
+    [
+      "самую",
+      3
+    ],
+    [
+      "нам",
+      3
+    ],
+    [
+      "пришлось",
       3
     ],
     [
@@ -84,7 +100,15 @@
       3
     ],
     [
+      "барин",
+      3
+    ],
+    [
       "этим",
+      3
+    ],
+    [
+      "сегодня",
       3
     ],
     [
@@ -110,30 +134,6 @@
     [
       "наш",
       3
-    ],
-    [
-      "слам",
-      3
-    ],
-    [
-      "симбирска",
-      2
-    ],
-    [
-      "выкупленное",
-      2
-    ],
-    [
-      "более",
-      2
-    ],
-    [
-      "находилась",
-      2
-    ],
-    [
-      "наша",
-      2
     ]
   ]
 }
