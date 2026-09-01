@@ -1,20 +1,32 @@
 {
   "path": "07_Симбирск/07_00_Титул.md",
   "chapter": "07",
-  "words": 40,
-  "symbols": 289,
-  "unique_words": 38,
-  "stopwords_words": 12,
-  "max_word_repeats": 1,
-  "sentences": 3,
-  "paragraphs": 1,
-  "avg_word_len": 5.9,
-  "avg_sentence_len_words": 13.3,
-  "avg_paragraph_len_words": 40.0,
+  "words": 204,
+  "symbols": 1317,
+  "unique_words": 165,
+  "stopwords_words": 85,
+  "max_word_repeats": 3,
+  "sentences": 11,
+  "paragraphs": 3,
+  "avg_word_len": 5.1,
+  "avg_sentence_len_words": 18.5,
+  "avg_paragraph_len_words": 68.0,
   "dialogue_lines": 0,
-  "lines": 2,
+  "lines": 10,
   "dialogue_share_percent": 0.0,
   "top_words": [
+    [
+      "друг",
+      3
+    ],
+    [
+      "собираются",
+      2
+    ],
+    [
+      "друга",
+      2
+    ],
     [
       "глава",
       1
@@ -121,10 +133,6 @@
     ],
     [
       "посудой",
-      1
-    ],
-    [
-      "ярмарку",
       1
     ]
   ]

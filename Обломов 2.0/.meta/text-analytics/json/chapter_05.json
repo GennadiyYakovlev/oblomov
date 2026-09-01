@@ -6,17 +6,17 @@
     "05_Экономика/05_02_Вечер в Обломовке.md",
     "05_Экономика/05_03_Хентай.md"
   ],
-  "words": 3468,
-  "symbols": 23231,
-  "lexicon_size": 1944,
+  "words": 3483,
+  "symbols": 23320,
+  "lexicon_size": 1948,
   "wateriness": 35.9,
   "nausea": 0.6,
-  "sentences": 273,
+  "sentences": 274,
   "paragraphs": 4,
   "avg_word_len": 5.4,
   "lexical_richness": 1.8,
   "avg_sentence_len_words": 12.7,
-  "avg_paragraph_len_words": 867.0,
+  "avg_paragraph_len_words": 870.8,
   "top_words": [
     [
       "штольц",

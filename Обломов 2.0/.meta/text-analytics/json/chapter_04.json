@@ -5,9 +5,9 @@
     "04_Визит/04_01_Прием.md",
     "04_Визит/04_02_Дуэль.md"
   ],
-  "words": 2501,
-  "symbols": 17424,
-  "lexicon_size": 1485,
+  "words": 2503,
+  "symbols": 17433,
+  "lexicon_size": 1486,
   "wateriness": 34.7,
   "nausea": 0.5,
   "sentences": 187,
@@ -15,7 +15,7 @@
   "avg_word_len": 5.7,
   "lexical_richness": 1.7,
   "avg_sentence_len_words": 13.4,
-  "avg_paragraph_len_words": 833.7,
+  "avg_paragraph_len_words": 834.3,
   "top_words": [
     [
       "сиятельство",
