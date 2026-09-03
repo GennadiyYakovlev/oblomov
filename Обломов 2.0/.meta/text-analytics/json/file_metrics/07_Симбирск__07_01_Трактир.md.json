@@ -1,23 +1,23 @@
 {
   "path": "07_Симбирск/07_01_Трактир.md",
   "chapter": "07",
-  "words": 2166,
-  "symbols": 14761,
-  "unique_words": 1328,
-  "stopwords_words": 732,
-  "max_word_repeats": 34,
-  "sentences": 203,
+  "words": 2202,
+  "symbols": 14982,
+  "unique_words": 1345,
+  "stopwords_words": 743,
+  "max_word_repeats": 35,
+  "sentences": 205,
   "paragraphs": 1,
   "avg_word_len": 5.5,
   "avg_sentence_len_words": 10.7,
-  "avg_paragraph_len_words": 2166.0,
+  "avg_paragraph_len_words": 2202.0,
   "dialogue_lines": 29,
   "lines": 68,
   "dialogue_share_percent": 42.6,
   "top_words": [
     [
       "жарг",
-      34
+      35
     ],
     [
       "тихон",
@@ -28,11 +28,11 @@
       7
     ],
     [
-      "глаза",
-      4
+      "чуть",
+      5
     ],
     [
-      "чуть",
+      "глаза",
       4
     ],
     [
@@ -88,6 +88,10 @@
       3
     ],
     [
+      "наших",
+      3
+    ],
+    [
       "спину",
       3
     ],
@@ -129,10 +133,6 @@
     ],
     [
       "малой",
-      3
-    ],
-    [
-      "наш",
       3
     ]
   ]

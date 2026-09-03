@@ -1,19 +1,19 @@
 {
   "path": "07_Симбирск/07_03_Мафия.md",
   "chapter": "07",
-  "words": 995,
-  "symbols": 6822,
-  "unique_words": 644,
-  "stopwords_words": 360,
+  "words": 999,
+  "symbols": 6847,
+  "unique_words": 648,
+  "stopwords_words": 363,
   "max_word_repeats": 10,
-  "sentences": 89,
+  "sentences": 88,
   "paragraphs": 1,
   "avg_word_len": 5.5,
-  "avg_sentence_len_words": 11.2,
-  "avg_paragraph_len_words": 995.0,
+  "avg_sentence_len_words": 11.4,
+  "avg_paragraph_len_words": 999.0,
   "dialogue_lines": 16,
-  "lines": 48,
-  "dialogue_share_percent": 33.3,
+  "lines": 42,
+  "dialogue_share_percent": 38.1,
   "top_words": [
     [
       "войцех",
@@ -80,10 +80,6 @@
       2
     ],
     [
-      "своих",
-      2
-    ],
-    [
       "симбирска",
       2
     ],
@@ -133,6 +129,10 @@
     ],
     [
       "специально",
+      2
+    ],
+    [
+      "штольц",
       2
     ]
   ]

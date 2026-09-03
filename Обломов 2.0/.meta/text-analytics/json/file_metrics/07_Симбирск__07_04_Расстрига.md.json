@@ -1,19 +1,19 @@
 {
   "path": "07_Симбирск/07_04_Расстрига.md",
   "chapter": "07",
-  "words": 868,
-  "symbols": 5740,
-  "unique_words": 547,
+  "words": 869,
+  "symbols": 5748,
+  "unique_words": 549,
   "stopwords_words": 320,
   "max_word_repeats": 10,
   "sentences": 88,
   "paragraphs": 1,
   "avg_word_len": 5.3,
   "avg_sentence_len_words": 9.9,
-  "avg_paragraph_len_words": 868.0,
+  "avg_paragraph_len_words": 869.0,
   "dialogue_lines": 13,
-  "lines": 31,
-  "dialogue_share_percent": 41.9,
+  "lines": 29,
+  "dialogue_share_percent": 44.8,
   "top_words": [
     [
       "илья",
@@ -41,10 +41,6 @@
     ],
     [
       "рублей",
-      3
-    ],
-    [
-      "именно",
       3
     ],
     [
@@ -89,6 +85,10 @@
     ],
     [
       "денег",
+      2
+    ],
+    [
+      "именно",
       2
     ],
     [

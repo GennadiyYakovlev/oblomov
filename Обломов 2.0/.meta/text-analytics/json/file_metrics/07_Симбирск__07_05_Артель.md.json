@@ -1,16 +1,16 @@
 {
   "path": "07_Симбирск/07_05_Артель.md",
   "chapter": "07",
-  "words": 1421,
-  "symbols": 9542,
-  "unique_words": 897,
+  "words": 1429,
+  "symbols": 9609,
+  "unique_words": 904,
   "stopwords_words": 463,
   "max_word_repeats": 6,
-  "sentences": 104,
+  "sentences": 105,
   "paragraphs": 1,
   "avg_word_len": 5.5,
-  "avg_sentence_len_words": 13.7,
-  "avg_paragraph_len_words": 1421.0,
+  "avg_sentence_len_words": 13.6,
+  "avg_paragraph_len_words": 1429.0,
   "dialogue_lines": 0,
   "lines": 37,
   "dialogue_share_percent": 0.0,
@@ -68,10 +68,6 @@
       3
     ],
     [
-      "двое",
-      3
-    ],
-    [
       "собак",
       3
     ],
@@ -125,6 +121,10 @@
     ],
     [
       "туда",
+      2
+    ],
+    [
+      "соседнего",
       2
     ],
     [

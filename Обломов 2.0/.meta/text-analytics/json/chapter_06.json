@@ -5,19 +5,20 @@
     "06_Переправа/06_01_Бизнес.md",
     "06_Переправа/06_02_Рисунок.md",
     "06_Переправа/06_03_Драка.md",
-    "06_Переправа/06_04_Казак.md"
+    "06_Переправа/06_04_Интерлюдия.md",
+    "06_Переправа/06_05_Казак.md"
   ],
-  "words": 5369,
-  "symbols": 36553,
-  "lexicon_size": 2778,
-  "wateriness": 34.8,
+  "words": 5644,
+  "symbols": 38414,
+  "lexicon_size": 2901,
+  "wateriness": 34.5,
   "nausea": 0.6,
-  "sentences": 439,
-  "paragraphs": 5,
+  "sentences": 479,
+  "paragraphs": 6,
   "avg_word_len": 5.6,
   "lexical_richness": 1.9,
-  "avg_sentence_len_words": 12.2,
-  "avg_paragraph_len_words": 1073.8,
+  "avg_sentence_len_words": 11.8,
+  "avg_paragraph_len_words": 940.7,
   "top_words": [
     [
       "полковник",
@@ -132,11 +133,11 @@
       4
     ],
     [
-      "чуть",
+      "андрея",
       4
     ],
     [
-      "пусть",
+      "фр",
       4
     ]
   ]

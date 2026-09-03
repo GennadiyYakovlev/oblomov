@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-01T23:52:11+03:00",
+  "generated_at": "2026-09-03T23:28:31+03:00",
   "mode": "all",
-  "files_count": 36,
+  "files_count": 39,
   "chapters_count": 8,
-  "words": 34583,
-  "sentences": 2925,
-  "paragraphs": 40,
-  "avg_sentence_len_words": 11.8,
-  "avg_paragraph_len_words": 864.6,
+  "words": 38030,
+  "sentences": 3241,
+  "paragraphs": 44,
+  "avg_sentence_len_words": 11.7,
+  "avg_paragraph_len_words": 864.3,
   "chapters": {
     "01": {
       "chapter": "01",
@@ -584,17 +584,17 @@
         "05_Экономика/05_02_Вечер в Обломовке.md",
         "05_Экономика/05_03_Хентай.md"
       ],
-      "words": 3483,
-      "symbols": 23320,
-      "lexicon_size": 1948,
-      "wateriness": 35.9,
+      "words": 3512,
+      "symbols": 23503,
+      "lexicon_size": 1959,
+      "wateriness": 36.1,
       "nausea": 0.6,
-      "sentences": 274,
+      "sentences": 277,
       "paragraphs": 4,
       "avg_word_len": 5.4,
       "lexical_richness": 1.8,
       "avg_sentence_len_words": 12.7,
-      "avg_paragraph_len_words": 870.8,
+      "avg_paragraph_len_words": 878.0,
       "top_words": [
         [
           "штольц",
@@ -725,19 +725,20 @@
         "06_Переправа/06_01_Бизнес.md",
         "06_Переправа/06_02_Рисунок.md",
         "06_Переправа/06_03_Драка.md",
-        "06_Переправа/06_04_Казак.md"
+        "06_Переправа/06_04_Интерлюдия.md",
+        "06_Переправа/06_05_Казак.md"
       ],
-      "words": 5369,
-      "symbols": 36553,
-      "lexicon_size": 2778,
-      "wateriness": 34.8,
+      "words": 5644,
+      "symbols": 38414,
+      "lexicon_size": 2901,
+      "wateriness": 34.5,
       "nausea": 0.6,
-      "sentences": 439,
-      "paragraphs": 5,
+      "sentences": 479,
+      "paragraphs": 6,
       "avg_word_len": 5.6,
       "lexical_richness": 1.9,
-      "avg_sentence_len_words": 12.2,
-      "avg_paragraph_len_words": 1073.8,
+      "avg_sentence_len_words": 11.8,
+      "avg_paragraph_len_words": 940.7,
       "top_words": [
         [
           "полковник",
@@ -852,11 +853,11 @@
           4
         ],
         [
-          "чуть",
+          "андрея",
           4
         ],
         [
-          "пусть",
+          "фр",
           4
         ]
       ]
@@ -872,35 +873,37 @@
         "07_Симбирск/07_05_Артель.md",
         "07_Симбирск/07_06_Посвящение.md",
         "07_Симбирск/07_07_Бал.md",
-        "07_Симбирск/07_08_Интерлюдия.md"
+        "07_Симбирск/07_08_Штемпель.md",
+        "07_Симбирск/07_09_Василий.md",
+        "07_Симбирск/07_10_Прохор.md"
       ],
-      "words": 9784,
-      "symbols": 66742,
-      "lexicon_size": 4730,
-      "wateriness": 33.8,
+      "words": 12927,
+      "symbols": 87509,
+      "lexicon_size": 5853,
+      "wateriness": 34.3,
       "nausea": 0.9,
-      "sentences": 805,
-      "paragraphs": 10,
+      "sentences": 1078,
+      "paragraphs": 13,
       "avg_word_len": 5.5,
-      "lexical_richness": 2.1,
-      "avg_sentence_len_words": 12.2,
-      "avg_paragraph_len_words": 978.4,
+      "lexical_richness": 2.2,
+      "avg_sentence_len_words": 12.0,
+      "avg_paragraph_len_words": 994.4,
       "top_words": [
         [
           "жарг",
-          39
+          40
         ],
         [
           "штольц",
-          28
+          30
+        ],
+        [
+          "тихон",
+          23
         ],
         [
           "илья",
           21
-        ],
-        [
-          "тихон",
-          17
         ],
         [
           "войцех",
@@ -908,14 +911,42 @@
         ],
         [
           "тихона",
-          11
+          14
+        ],
+        [
+          "василий",
+          14
+        ],
+        [
+          "чуть",
+          13
+        ],
+        [
+          "очень",
+          12
         ],
         [
           "поляк",
           11
         ],
         [
-          "чуть",
+          "дверь",
+          10
+        ],
+        [
+          "пока",
+          10
+        ],
+        [
+          "таки",
+          10
+        ],
+        [
+          "прохор",
+          10
+        ],
+        [
+          "пришлось",
           9
         ],
         [
@@ -927,7 +958,19 @@
           9
         ],
         [
+          "дальше",
+          9
+        ],
+        [
+          "трактира",
+          9
+        ],
+        [
           "артели",
+          9
+        ],
+        [
+          "фр",
           9
         ],
         [
@@ -939,23 +982,11 @@
           8
         ],
         [
-          "очень",
+          "кузьмич",
           8
         ],
         [
-          "дверь",
-          7
-        ],
-        [
           "своей",
-          7
-        ],
-        [
-          "пока",
-          7
-        ],
-        [
-          "таки",
           7
         ],
         [
@@ -963,48 +994,20 @@
           7
         ],
         [
-          "пришлось",
-          6
+          "вечера",
+          7
         ],
         [
           "федька",
           6
         ],
         [
-          "дальше",
+          "тебе",
           6
         ],
         [
           "харчевни",
           6
-        ],
-        [
-          "людей",
-          6
-        ],
-        [
-          "затем",
-          5
-        ],
-        [
-          "расстрига",
-          5
-        ],
-        [
-          "али",
-          5
-        ],
-        [
-          "князь",
-          5
-        ],
-        [
-          "арсений",
-          5
-        ],
-        [
-          "возле",
-          5
         ]
       ]
     },
