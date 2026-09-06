@@ -1,18 +1,18 @@
 {
   "path": "04_Визит/04_02_Дуэль.md",
   "chapter": "04",
-  "words": 1080,
-  "symbols": 7334,
+  "words": 1079,
+  "symbols": 7331,
   "unique_words": 699,
-  "stopwords_words": 387,
+  "stopwords_words": 386,
   "max_word_repeats": 6,
   "sentences": 82,
   "paragraphs": 1,
   "avg_word_len": 5.6,
   "avg_sentence_len_words": 13.2,
-  "avg_paragraph_len_words": 1080.0,
+  "avg_paragraph_len_words": 1079.0,
   "dialogue_lines": 0,
-  "lines": 33,
+  "lines": 29,
   "dialogue_share_percent": 0.0,
   "top_words": [
     [

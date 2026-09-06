@@ -1,18 +1,18 @@
 {
   "path": "08_Перед отъездом/08_02_Магический поединок.md",
   "chapter": "08",
-  "words": 1169,
-  "symbols": 7748,
-  "unique_words": 717,
-  "stopwords_words": 433,
+  "words": 1191,
+  "symbols": 7891,
+  "unique_words": 727,
+  "stopwords_words": 442,
   "max_word_repeats": 9,
-  "sentences": 107,
-  "paragraphs": 4,
-  "avg_word_len": 5.3,
-  "avg_sentence_len_words": 10.9,
-  "avg_paragraph_len_words": 292.2,
+  "sentences": 106,
+  "paragraphs": 1,
+  "avg_word_len": 5.4,
+  "avg_sentence_len_words": 11.2,
+  "avg_paragraph_len_words": 1191.0,
   "dialogue_lines": 0,
-  "lines": 50,
+  "lines": 44,
   "dialogue_share_percent": 0.0,
   "top_words": [
     [
@@ -20,11 +20,15 @@
       9
     ],
     [
+      "тебе",
+      6
+    ],
+    [
       "конечно",
       5
     ],
     [
-      "тебе",
+      "таки",
       5
     ],
     [
@@ -36,15 +40,7 @@
       4
     ],
     [
-      "таки",
-      4
-    ],
-    [
-      "несколько",
-      4
-    ],
-    [
-      "дальше",
+      "андрей",
       4
     ],
     [
@@ -53,10 +49,6 @@
     ],
     [
       "четыре",
-      3
-    ],
-    [
-      "андрей",
       3
     ],
     [
@@ -72,6 +64,10 @@
       3
     ],
     [
+      "несколько",
+      3
+    ],
+    [
       "шесте",
       3
     ],
@@ -80,7 +76,15 @@
       3
     ],
     [
+      "илья",
+      3
+    ],
+    [
       "даоса",
+      3
+    ],
+    [
+      "дальше",
       3
     ],
     [
@@ -129,10 +133,6 @@
     ],
     [
       "платить",
-      2
-    ],
-    [
-      "головы",
       2
     ]
   ]

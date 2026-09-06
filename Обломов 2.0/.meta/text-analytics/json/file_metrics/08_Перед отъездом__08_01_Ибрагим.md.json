@@ -1,16 +1,16 @@
 {
   "path": "08_Перед отъездом/08_01_Ибрагим.md",
   "chapter": "08",
-  "words": 1532,
-  "symbols": 10125,
-  "unique_words": 910,
-  "stopwords_words": 531,
+  "words": 1541,
+  "symbols": 10172,
+  "unique_words": 915,
+  "stopwords_words": 535,
   "max_word_repeats": 21,
   "sentences": 115,
   "paragraphs": 1,
   "avg_word_len": 5.4,
-  "avg_sentence_len_words": 13.3,
-  "avg_paragraph_len_words": 1532.0,
+  "avg_sentence_len_words": 13.4,
+  "avg_paragraph_len_words": 1541.0,
   "dialogue_lines": 5,
   "lines": 31,
   "dialogue_share_percent": 16.1,
@@ -104,6 +104,10 @@
       3
     ],
     [
+      "гостей",
+      3
+    ],
+    [
       "городничий",
       3
     ],
@@ -117,10 +121,6 @@
     ],
     [
       "спор",
-      3
-    ],
-    [
-      "юношей",
       3
     ],
     [

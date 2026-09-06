@@ -8,17 +8,17 @@
     "06_Переправа/06_04_Интерлюдия.md",
     "06_Переправа/06_05_Казак.md"
   ],
-  "words": 5644,
-  "symbols": 38414,
-  "lexicon_size": 2901,
-  "wateriness": 34.5,
+  "words": 5685,
+  "symbols": 38639,
+  "lexicon_size": 2921,
+  "wateriness": 34.6,
   "nausea": 0.6,
-  "sentences": 479,
+  "sentences": 484,
   "paragraphs": 6,
   "avg_word_len": 5.6,
   "lexical_richness": 1.9,
-  "avg_sentence_len_words": 11.8,
-  "avg_paragraph_len_words": 940.7,
+  "avg_sentence_len_words": 11.7,
+  "avg_paragraph_len_words": 947.5,
   "top_words": [
     [
       "полковник",
@@ -65,11 +65,15 @@
       6
     ],
     [
+      "урядника",
+      6
+    ],
+    [
       "хотя",
       5
     ],
     [
-      "конечно",
+      "снова",
       5
     ],
     [
@@ -109,6 +113,10 @@
       4
     ],
     [
+      "отрок",
+      4
+    ],
+    [
       "вышел",
       4
     ],
@@ -130,14 +138,6 @@
     ],
     [
       "ваше",
-      4
-    ],
-    [
-      "андрея",
-      4
-    ],
-    [
-      "фр",
       4
     ]
   ]

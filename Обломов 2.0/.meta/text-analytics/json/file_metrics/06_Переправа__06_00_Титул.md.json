@@ -1,20 +1,40 @@
 {
   "path": "06_Переправа/06_00_Титул.md",
   "chapter": "06",
-  "words": 59,
-  "symbols": 415,
-  "unique_words": 54,
+  "words": 64,
+  "symbols": 451,
+  "unique_words": 59,
   "stopwords_words": 18,
   "max_word_repeats": 1,
-  "sentences": 4,
+  "sentences": 6,
   "paragraphs": 1,
-  "avg_word_len": 5.7,
-  "avg_sentence_len_words": 14.8,
-  "avg_paragraph_len_words": 59.0,
+  "avg_word_len": 5.6,
+  "avg_sentence_len_words": 10.7,
+  "avg_paragraph_len_words": 64.0,
   "dialogue_lines": 0,
-  "lines": 3,
+  "lines": 4,
   "dialogue_share_percent": 0.0,
   "top_words": [
+    [
+      "часть",
+      1
+    ],
+    [
+      "iv",
+      1
+    ],
+    [
+      "январь",
+      1
+    ],
+    [
+      "года",
+      1
+    ],
+    [
+      "лет",
+      1
+    ],
     [
       "глава",
       1
@@ -113,26 +133,6 @@
     ],
     [
       "общим",
-      1
-    ],
-    [
-      "порядком",
-      1
-    ],
-    [
-      "ноябре",
-      1
-    ],
-    [
-      "начинается",
-      1
-    ],
-    [
-      "снег",
-      1
-    ],
-    [
-      "мороз",
       1
     ]
   ]

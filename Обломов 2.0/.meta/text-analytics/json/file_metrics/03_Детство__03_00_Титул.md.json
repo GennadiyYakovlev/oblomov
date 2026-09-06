@@ -1,20 +1,40 @@
 {
   "path": "03_Детство/03_00_Титул.md",
   "chapter": "03",
-  "words": 33,
-  "symbols": 202,
-  "unique_words": 28,
+  "words": 38,
+  "symbols": 235,
+  "unique_words": 33,
   "stopwords_words": 15,
   "max_word_repeats": 1,
-  "sentences": 5,
+  "sentences": 7,
   "paragraphs": 1,
-  "avg_word_len": 4.6,
-  "avg_sentence_len_words": 6.6,
-  "avg_paragraph_len_words": 33.0,
+  "avg_word_len": 4.5,
+  "avg_sentence_len_words": 5.4,
+  "avg_paragraph_len_words": 38.0,
   "dialogue_lines": 0,
-  "lines": 2,
+  "lines": 3,
   "dialogue_share_percent": 0.0,
   "top_words": [
+    [
+      "часть",
+      1
+    ],
+    [
+      "ii",
+      1
+    ],
+    [
+      "июль",
+      1
+    ],
+    [
+      "года",
+      1
+    ],
+    [
+      "лет",
+      1
+    ],
     [
       "глава",
       1

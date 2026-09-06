@@ -1,16 +1,16 @@
 {
   "path": "06_Переправа/06_01_Бизнес.md",
   "chapter": "06",
-  "words": 669,
-  "symbols": 4640,
-  "unique_words": 479,
-  "stopwords_words": 235,
+  "words": 676,
+  "symbols": 4659,
+  "unique_words": 481,
+  "stopwords_words": 241,
   "max_word_repeats": 3,
   "sentences": 39,
   "paragraphs": 1,
   "avg_word_len": 5.7,
-  "avg_sentence_len_words": 17.2,
-  "avg_paragraph_len_words": 669.0,
+  "avg_sentence_len_words": 17.3,
+  "avg_paragraph_len_words": 676.0,
   "dialogue_lines": 0,
   "lines": 16,
   "dialogue_share_percent": 0.0,
@@ -18,10 +18,6 @@
     [
       "деньги",
       3
-    ],
-    [
-      "года",
-      2
     ],
     [
       "рождения",
@@ -56,7 +52,7 @@
       2
     ],
     [
-      "конечно",
+      "разумеется",
       2
     ],
     [
@@ -72,7 +68,15 @@
       2
     ],
     [
+      "морозец",
+      2
+    ],
+    [
       "декабрь",
+      1
+    ],
+    [
+      "года",
       1
     ],
     [
@@ -129,10 +133,6 @@
     ],
     [
       "умерший",
-      1
-    ],
-    [
-      "быстротечной",
       1
     ]
   ]

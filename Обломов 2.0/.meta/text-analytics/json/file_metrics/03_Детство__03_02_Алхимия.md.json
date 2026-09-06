@@ -1,16 +1,16 @@
 {
   "path": "03_Детство/03_02_Алхимия.md",
   "chapter": "03",
-  "words": 1406,
-  "symbols": 9363,
-  "unique_words": 866,
-  "stopwords_words": 538,
+  "words": 1401,
+  "symbols": 9359,
+  "unique_words": 865,
+  "stopwords_words": 529,
   "max_word_repeats": 5,
   "sentences": 130,
   "paragraphs": 1,
   "avg_word_len": 5.4,
   "avg_sentence_len_words": 10.8,
-  "avg_paragraph_len_words": 1406.0,
+  "avg_paragraph_len_words": 1401.0,
   "dialogue_lines": 0,
   "lines": 55,
   "dialogue_share_percent": 0.0,
@@ -25,6 +25,14 @@
     ],
     [
       "одноклассник",
+      4
+    ],
+    [
+      "пару",
+      4
+    ],
+    [
+      "вестник",
       4
     ],
     [
@@ -56,14 +64,6 @@
       3
     ],
     [
-      "пару",
-      3
-    ],
-    [
-      "вестник",
-      3
-    ],
-    [
       "такие",
       3
     ],
@@ -77,6 +77,10 @@
     ],
     [
       "вроде",
+      3
+    ],
+    [
+      "тю",
       3
     ],
     [
@@ -129,10 +133,6 @@
     ],
     [
       "иногда",
-      2
-    ],
-    [
-      "развития",
       2
     ]
   ]

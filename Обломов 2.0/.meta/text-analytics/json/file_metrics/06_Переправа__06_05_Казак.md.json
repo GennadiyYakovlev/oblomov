@@ -1,16 +1,16 @@
 {
   "path": "06_Переправа/06_05_Казак.md",
   "chapter": "06",
-  "words": 1047,
-  "symbols": 7276,
-  "unique_words": 694,
-  "stopwords_words": 345,
+  "words": 1067,
+  "symbols": 7413,
+  "unique_words": 704,
+  "stopwords_words": 352,
   "max_word_repeats": 9,
-  "sentences": 93,
+  "sentences": 94,
   "paragraphs": 1,
   "avg_word_len": 5.7,
-  "avg_sentence_len_words": 11.3,
-  "avg_paragraph_len_words": 1047.0,
+  "avg_sentence_len_words": 11.4,
+  "avg_paragraph_len_words": 1067.0,
   "dialogue_lines": 17,
   "lines": 35,
   "dialogue_share_percent": 48.6,
@@ -37,6 +37,10 @@
     ],
     [
       "чуть",
+      4
+    ],
+    [
+      "чутка",
       4
     ],
     [
@@ -72,12 +76,12 @@
       3
     ],
     [
-      "чутка",
+      "взъелся",
       3
     ],
     [
-      "взъелся",
-      3
+      "ефремов",
+      2
     ],
     [
       "казачий",
@@ -129,10 +133,6 @@
     ],
     [
       "который",
-      2
-    ],
-    [
-      "неприятным",
       2
     ]
   ]

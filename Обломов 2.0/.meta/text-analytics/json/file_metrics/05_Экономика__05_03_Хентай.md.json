@@ -1,16 +1,16 @@
 {
   "path": "05_Экономика/05_03_Хентай.md",
   "chapter": "05",
-  "words": 1417,
-  "symbols": 9390,
-  "unique_words": 866,
-  "stopwords_words": 511,
+  "words": 1422,
+  "symbols": 9418,
+  "unique_words": 867,
+  "stopwords_words": 513,
   "max_word_repeats": 10,
   "sentences": 109,
   "paragraphs": 1,
   "avg_word_len": 5.4,
   "avg_sentence_len_words": 13.0,
-  "avg_paragraph_len_words": 1417.0,
+  "avg_paragraph_len_words": 1422.0,
   "dialogue_lines": 0,
   "lines": 56,
   "dialogue_share_percent": 0.0,
@@ -128,11 +128,11 @@
       2
     ],
     [
-      "трудом",
+      "других",
       2
     ],
     [
-      "руки",
+      "трудом",
       2
     ]
   ]

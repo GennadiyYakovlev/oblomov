@@ -1,16 +1,16 @@
 {
   "path": "08_Перед отъездом/08_00_Титул.md",
   "chapter": "08",
-  "words": 104,
-  "symbols": 666,
-  "unique_words": 89,
+  "words": 107,
+  "symbols": 691,
+  "unique_words": 91,
   "stopwords_words": 39,
   "max_word_repeats": 4,
-  "sentences": 9,
+  "sentences": 10,
   "paragraphs": 1,
   "avg_word_len": 4.9,
-  "avg_sentence_len_words": 11.6,
-  "avg_paragraph_len_words": 104.0,
+  "avg_sentence_len_words": 10.7,
+  "avg_paragraph_len_words": 107.0,
   "dialogue_lines": 0,
   "lines": 5,
   "dialogue_share_percent": 0.0,
@@ -18,6 +18,10 @@
     [
       "рублей",
       4
+    ],
+    [
+      "лет",
+      2
     ],
     [
       "лошадь",
@@ -28,7 +32,11 @@
       1
     ],
     [
-      "ii",
+      "август",
+      1
+    ],
+    [
+      "года",
       1
     ],
     [
@@ -125,14 +133,6 @@
     ],
     [
       "ярмарка",
-      1
-    ],
-    [
-      "дадут",
-      1
-    ],
-    [
-      "четыреста",
       1
     ]
   ]

@@ -1,16 +1,16 @@
 {
   "path": "04_Визит/04_01_Прием.md",
   "chapter": "04",
-  "words": 1356,
-  "symbols": 9673,
-  "unique_words": 898,
-  "stopwords_words": 455,
+  "words": 1367,
+  "symbols": 9747,
+  "unique_words": 901,
+  "stopwords_words": 462,
   "max_word_repeats": 5,
-  "sentences": 100,
+  "sentences": 101,
   "paragraphs": 1,
   "avg_word_len": 5.9,
-  "avg_sentence_len_words": 13.6,
-  "avg_paragraph_len_words": 1356.0,
+  "avg_sentence_len_words": 13.5,
+  "avg_paragraph_len_words": 1367.0,
   "dialogue_lines": 0,
   "lines": 33,
   "dialogue_share_percent": 0.0,
@@ -44,6 +44,10 @@
       3
     ],
     [
+      "княжны",
+      3
+    ],
+    [
       "нам",
       3
     ],
@@ -57,10 +61,6 @@
     ],
     [
       "коня",
-      3
-    ],
-    [
-      "таки",
       3
     ],
     [
