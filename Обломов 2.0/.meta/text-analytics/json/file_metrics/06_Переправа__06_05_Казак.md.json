@@ -1,19 +1,19 @@
 {
   "path": "06_Переправа/06_05_Казак.md",
   "chapter": "06",
-  "words": 1067,
-  "symbols": 7413,
-  "unique_words": 704,
-  "stopwords_words": 352,
+  "words": 1087,
+  "symbols": 7577,
+  "unique_words": 715,
+  "stopwords_words": 354,
   "max_word_repeats": 9,
   "sentences": 94,
   "paragraphs": 1,
   "avg_word_len": 5.7,
-  "avg_sentence_len_words": 11.4,
-  "avg_paragraph_len_words": 1067.0,
+  "avg_sentence_len_words": 11.6,
+  "avg_paragraph_len_words": 1087.0,
   "dialogue_lines": 17,
-  "lines": 35,
-  "dialogue_share_percent": 48.6,
+  "lines": 34,
+  "dialogue_share_percent": 50.0,
   "top_words": [
     [
       "федор",
@@ -48,7 +48,19 @@
       4
     ],
     [
+      "самого",
+      3
+    ],
+    [
+      "императора",
+      3
+    ],
+    [
       "оказалось",
+      3
+    ],
+    [
+      "казачьего",
       3
     ],
     [
@@ -84,10 +96,6 @@
       2
     ],
     [
-      "казачий",
-      2
-    ],
-    [
       "небесном",
       2
     ],
@@ -96,11 +104,19 @@
       2
     ],
     [
-      "императора",
+      "просто",
       2
     ],
     [
       "вроде",
+      2
+    ],
+    [
+      "полка",
+      2
+    ],
+    [
+      "полковника",
       2
     ],
     [
@@ -117,22 +133,6 @@
     ],
     [
       "хилковых",
-      2
-    ],
-    [
-      "самого",
-      2
-    ],
-    [
-      "изрядным",
-      2
-    ],
-    [
-      "обломовых",
-      2
-    ],
-    [
-      "который",
       2
     ]
   ]

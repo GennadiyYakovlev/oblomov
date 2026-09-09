@@ -1,16 +1,16 @@
 {
   "path": "03_Детство/03_02_Алхимия.md",
   "chapter": "03",
-  "words": 1401,
-  "symbols": 9359,
-  "unique_words": 865,
-  "stopwords_words": 529,
+  "words": 1432,
+  "symbols": 9655,
+  "unique_words": 886,
+  "stopwords_words": 534,
   "max_word_repeats": 5,
-  "sentences": 130,
+  "sentences": 132,
   "paragraphs": 1,
-  "avg_word_len": 5.4,
+  "avg_word_len": 5.5,
   "avg_sentence_len_words": 10.8,
-  "avg_paragraph_len_words": 1401.0,
+  "avg_paragraph_len_words": 1432.0,
   "dialogue_lines": 0,
   "lines": 55,
   "dialogue_share_percent": 0.0,
@@ -112,6 +112,10 @@
       2
     ],
     [
+      "сына",
+      2
+    ],
+    [
       "андрейку",
       2
     ],
@@ -129,10 +133,6 @@
     ],
     [
       "учеников",
-      2
-    ],
-    [
-      "иногда",
       2
     ]
   ]

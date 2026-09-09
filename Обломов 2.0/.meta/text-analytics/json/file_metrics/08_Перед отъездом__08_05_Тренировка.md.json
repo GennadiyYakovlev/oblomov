@@ -1,16 +1,16 @@
 {
   "path": "08_Перед отъездом/08_05_Тренировка.md",
   "chapter": "08",
-  "words": 1227,
-  "symbols": 8293,
-  "unique_words": 787,
-  "stopwords_words": 391,
+  "words": 1215,
+  "symbols": 8224,
+  "unique_words": 781,
+  "stopwords_words": 386,
   "max_word_repeats": 6,
-  "sentences": 70,
+  "sentences": 69,
   "paragraphs": 1,
   "avg_word_len": 5.6,
-  "avg_sentence_len_words": 17.5,
-  "avg_paragraph_len_words": 1227.0,
+  "avg_sentence_len_words": 17.6,
+  "avg_paragraph_len_words": 1215.0,
   "dialogue_lines": 0,
   "lines": 24,
   "dialogue_share_percent": 0.0,
@@ -21,6 +21,10 @@
     ],
     [
       "андрей",
+      5
+    ],
+    [
+      "наум",
       5
     ],
     [
@@ -41,10 +45,6 @@
     ],
     [
       "дед",
-      4
-    ],
-    [
-      "наум",
       4
     ],
     [

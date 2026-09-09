@@ -1,16 +1,16 @@
 {
   "path": "08_Перед отъездом/08_04_Батюшка.md",
   "chapter": "08",
-  "words": 1241,
-  "symbols": 8513,
-  "unique_words": 802,
-  "stopwords_words": 425,
+  "words": 1257,
+  "symbols": 8631,
+  "unique_words": 811,
+  "stopwords_words": 430,
   "max_word_repeats": 6,
   "sentences": 109,
   "paragraphs": 1,
-  "avg_word_len": 5.6,
-  "avg_sentence_len_words": 11.4,
-  "avg_paragraph_len_words": 1241.0,
+  "avg_word_len": 5.7,
+  "avg_sentence_len_words": 11.5,
+  "avg_paragraph_len_words": 1257.0,
   "dialogue_lines": 0,
   "lines": 32,
   "dialogue_share_percent": 0.0,
@@ -60,15 +60,15 @@
       3
     ],
     [
-      "отца",
-      3
-    ],
-    [
       "правда",
       3
     ],
     [
-      "настюху",
+      "личной",
+      3
+    ],
+    [
+      "настену",
       3
     ],
     [
@@ -128,7 +128,7 @@
       2
     ],
     [
-      "алексея",
+      "отца",
       2
     ],
     [

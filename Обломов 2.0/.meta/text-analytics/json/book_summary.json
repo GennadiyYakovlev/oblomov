@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-06T23:43:49+03:00",
+  "generated_at": "2026-09-09T22:06:35+03:00",
   "mode": "all",
-  "files_count": 43,
+  "files_count": 44,
   "chapters_count": 8,
-  "words": 43195,
-  "sentences": 3661,
-  "paragraphs": 45,
+  "words": 44935,
+  "sentences": 3798,
+  "paragraphs": 47,
   "avg_sentence_len_words": 11.8,
-  "avg_paragraph_len_words": 959.9,
+  "avg_paragraph_len_words": 956.1,
   "chapters": {
     "01": {
       "chapter": "01",
@@ -17,17 +17,17 @@
         "01_Система/01_02_Дискотека чемпионов.md",
         "01_Система/01_03_Разговор с Джорджи.md"
       ],
-      "words": 3829,
-      "symbols": 25660,
-      "lexicon_size": 1981,
-      "wateriness": 37.3,
+      "words": 3847,
+      "symbols": 25784,
+      "lexicon_size": 1992,
+      "wateriness": 37.2,
       "nausea": 0.9,
-      "sentences": 361,
+      "sentences": 362,
       "paragraphs": 4,
       "avg_word_len": 5.4,
       "lexical_richness": 1.9,
       "avg_sentence_len_words": 10.6,
-      "avg_paragraph_len_words": 957.2,
+      "avg_paragraph_len_words": 961.8,
       "top_words": [
         [
           "джорджи",
@@ -155,36 +155,44 @@
       "chapter": "02",
       "files": [
         "02_Откат/02_00_Титул.md",
-        "02_Откат/02_01_Лорд.md",
+        "02_Откат/02_01_Путь жреца.md",
         "02_Откат/02_02_Откат.md",
         "02_Откат/02_03_Офис.md"
       ],
-      "words": 3642,
-      "symbols": 24451,
-      "lexicon_size": 1945,
-      "wateriness": 35.2,
-      "nausea": 0.7,
-      "sentences": 335,
+      "words": 3959,
+      "symbols": 26807,
+      "lexicon_size": 2102,
+      "wateriness": 34.8,
+      "nausea": 0.6,
+      "sentences": 353,
       "paragraphs": 4,
       "avg_word_len": 5.5,
       "lexical_richness": 1.9,
-      "avg_sentence_len_words": 10.9,
-      "avg_paragraph_len_words": 910.5,
+      "avg_sentence_len_words": 11.2,
+      "avg_paragraph_len_words": 989.8,
       "top_words": [
         [
           "джорджи",
           19
         ],
         [
-          "голове",
-          10
+          "интерфейс",
+          12
         ],
         [
-          "интерфейс",
+          "голове",
+          11
+        ],
+        [
+          "перед",
           8
         ],
         [
-          "тело",
+          "очень",
+          7
+        ],
+        [
+          "мира",
           6
         ],
         [
@@ -212,11 +220,11 @@
           5
         ],
         [
-          "лицо",
+          "главное",
           5
         ],
         [
-          "очень",
+          "лицо",
           5
         ],
         [
@@ -244,15 +252,7 @@
           4
         ],
         [
-          "мира",
-          4
-        ],
-        [
           "просто",
-          4
-        ],
-        [
-          "главное",
           4
         ],
         [
@@ -301,17 +301,17 @@
         "03_Детство/03_02_Алхимия.md",
         "03_Детство/03_03_Магия.md"
       ],
-      "words": 3173,
-      "symbols": 21666,
-      "lexicon_size": 1797,
-      "wateriness": 35.1,
+      "words": 3208,
+      "symbols": 21996,
+      "lexicon_size": 1822,
+      "wateriness": 34.9,
       "nausea": 0.4,
-      "sentences": 298,
+      "sentences": 300,
       "paragraphs": 4,
       "avg_word_len": 5.6,
       "lexical_richness": 1.8,
-      "avg_sentence_len_words": 10.6,
-      "avg_paragraph_len_words": 793.2,
+      "avg_sentence_len_words": 10.7,
+      "avg_paragraph_len_words": 802.0,
       "top_words": [
         [
           "штольц",
@@ -442,17 +442,17 @@
         "04_Визит/04_01_Прием.md",
         "04_Визит/04_02_Дуэль.md"
       ],
-      "words": 2513,
-      "symbols": 17504,
-      "lexicon_size": 1489,
+      "words": 2568,
+      "symbols": 17896,
+      "lexicon_size": 1522,
       "wateriness": 34.8,
       "nausea": 0.5,
-      "sentences": 188,
+      "sentences": 191,
       "paragraphs": 3,
       "avg_word_len": 5.7,
       "lexical_richness": 1.7,
       "avg_sentence_len_words": 13.4,
-      "avg_paragraph_len_words": 837.7,
+      "avg_paragraph_len_words": 856.0,
       "top_words": [
         [
           "сиятельство",
@@ -584,17 +584,17 @@
         "05_Экономика/05_02_Вечер в Обломовке.md",
         "05_Экономика/05_03_Хентай.md"
       ],
-      "words": 3525,
-      "symbols": 23609,
-      "lexicon_size": 1963,
-      "wateriness": 35.9,
+      "words": 3565,
+      "symbols": 23942,
+      "lexicon_size": 1988,
+      "wateriness": 35.7,
       "nausea": 0.6,
-      "sentences": 279,
+      "sentences": 281,
       "paragraphs": 4,
-      "avg_word_len": 5.4,
+      "avg_word_len": 5.5,
       "lexical_richness": 1.8,
-      "avg_sentence_len_words": 12.6,
-      "avg_paragraph_len_words": 881.2,
+      "avg_sentence_len_words": 12.7,
+      "avg_paragraph_len_words": 891.2,
       "top_words": [
         [
           "штольц",
@@ -728,24 +728,24 @@
         "06_Переправа/06_04_Интерлюдия.md",
         "06_Переправа/06_05_Казак.md"
       ],
-      "words": 5685,
-      "symbols": 38639,
-      "lexicon_size": 2921,
-      "wateriness": 34.6,
+      "words": 5820,
+      "symbols": 39405,
+      "lexicon_size": 2935,
+      "wateriness": 34.9,
       "nausea": 0.6,
-      "sentences": 484,
+      "sentences": 507,
       "paragraphs": 6,
-      "avg_word_len": 5.6,
-      "lexical_richness": 1.9,
-      "avg_sentence_len_words": 11.7,
-      "avg_paragraph_len_words": 947.5,
+      "avg_word_len": 5.5,
+      "lexical_richness": 2.0,
+      "avg_sentence_len_words": 11.5,
+      "avg_paragraph_len_words": 970.0,
       "top_words": [
         [
           "полковник",
           18
         ],
         [
-          "взгляд",
+          "штольц",
           9
         ],
         [
@@ -757,6 +757,10 @@
           8
         ],
         [
+          "взгляд",
+          8
+        ],
+        [
           "есаул",
           8
         ],
@@ -765,16 +769,12 @@
           8
         ],
         [
-          "штольц",
-          7
-        ],
-        [
           "офицер",
           7
         ],
         [
           "хорунжий",
-          6
+          7
         ],
         [
           "успел",
@@ -785,11 +785,15 @@
           6
         ],
         [
-          "урядника",
+          "полковника",
           6
         ],
         [
           "хотя",
+          5
+        ],
+        [
+          "самого",
           5
         ],
         [
@@ -805,6 +809,10 @@
           5
         ],
         [
+          "правда",
+          5
+        ],
+        [
           "тысячу",
           5
         ],
@@ -815,10 +823,6 @@
         [
           "ефремович",
           5
-        ],
-        [
-          "быстро",
-          4
         ],
         [
           "илья",
@@ -837,6 +841,10 @@
           4
         ],
         [
+          "руку",
+          4
+        ],
+        [
           "вышел",
           4
         ],
@@ -845,19 +853,11 @@
           4
         ],
         [
+          "стало",
+          4
+        ],
+        [
           "пришлось",
-          4
-        ],
-        [
-          "полковника",
-          4
-        ],
-        [
-          "взглядом",
-          4
-        ],
-        [
-          "ваше",
           4
         ]
       ]
@@ -877,17 +877,17 @@
         "07_Симбирск/07_09_Василий.md",
         "07_Симбирск/07_10_Прохор.md"
       ],
-      "words": 12840,
-      "symbols": 86993,
-      "lexicon_size": 5847,
-      "wateriness": 34.2,
+      "words": 13174,
+      "symbols": 89408,
+      "lexicon_size": 5991,
+      "wateriness": 34.1,
       "nausea": 0.9,
-      "sentences": 1068,
+      "sentences": 1097,
       "paragraphs": 13,
       "avg_word_len": 5.5,
       "lexical_richness": 2.2,
       "avg_sentence_len_words": 12.0,
-      "avg_paragraph_len_words": 987.7,
+      "avg_paragraph_len_words": 1013.4,
       "top_words": [
         [
           "жарг",
@@ -895,15 +895,15 @@
         ],
         [
           "штольц",
-          30
-        ],
-        [
-          "тихон",
-          22
+          29
         ],
         [
           "илья",
-          21
+          27
+        ],
+        [
+          "тихон",
+          19
         ],
         [
           "войцех",
@@ -918,15 +918,27 @@
           14
         ],
         [
-          "чуть",
+          "таки",
           13
+        ],
+        [
+          "чуть",
+          12
         ],
         [
           "очень",
           12
         ],
         [
+          "фр",
+          12
+        ],
+        [
           "кивнул",
+          11
+        ],
+        [
+          "ильич",
           11
         ],
         [
@@ -942,7 +954,7 @@
           10
         ],
         [
-          "таки",
+          "артели",
           10
         ],
         [
@@ -950,27 +962,11 @@
           9
         ],
         [
-          "ильич",
-          9
-        ],
-        [
           "дальше",
           9
         ],
         [
-          "артели",
-          9
-        ],
-        [
-          "фр",
-          9
-        ],
-        [
           "нам",
-          8
-        ],
-        [
-          "митя",
           8
         ],
         [
@@ -986,11 +982,19 @@
           7
         ],
         [
+          "митя",
+          7
+        ],
+        [
           "просто",
           7
         ],
         [
-          "трактира",
+          "артель",
+          7
+        ],
+        [
+          "княжна",
           7
         ],
         [
@@ -998,15 +1002,11 @@
           7
         ],
         [
+          "михайловна",
+          7
+        ],
+        [
           "федька",
-          6
-        ],
-        [
-          "тебе",
-          6
-        ],
-        [
-          "харчевни",
           6
         ]
       ]
@@ -1020,30 +1020,35 @@
         "08_Перед отъездом/08_03_Родители.md",
         "08_Перед отъездом/08_04_Батюшка.md",
         "08_Перед отъездом/08_05_Тренировка.md",
-        "08_Перед отъездом/08_06_Голицыны.md"
+        "08_Перед отъездом/08_06_Голицыны.md",
+        "08_Перед отъездом/08_08_Интерфейс.md"
       ],
-      "words": 7988,
-      "symbols": 54309,
-      "lexicon_size": 3987,
-      "wateriness": 33.1,
+      "words": 8794,
+      "symbols": 59961,
+      "lexicon_size": 4337,
+      "wateriness": 33.2,
       "nausea": 0.8,
-      "sentences": 648,
-      "paragraphs": 7,
+      "sentences": 707,
+      "paragraphs": 9,
       "avg_word_len": 5.6,
       "lexical_richness": 2.0,
-      "avg_sentence_len_words": 12.3,
-      "avg_paragraph_len_words": 1141.1,
+      "avg_sentence_len_words": 12.4,
+      "avg_paragraph_len_words": 977.1,
       "top_words": [
+        [
+          "штольц",
+          22
+        ],
         [
           "ибрагим",
           21
         ],
         [
-          "штольц",
-          21
+          "андрей",
+          18
         ],
         [
-          "андрей",
+          "таки",
           15
         ],
         [
@@ -1063,6 +1068,10 @@
           10
         ],
         [
+          "la",
+          10
+        ],
+        [
           "фр",
           10
         ],
@@ -1075,19 +1084,23 @@
           9
         ],
         [
-          "la",
-          9
-        ],
-        [
           "рублей",
           8
         ],
         [
-          "таки",
+          "илья",
           8
         ],
         [
           "лицо",
+          8
+        ],
+        [
+          "вечера",
+          8
+        ],
+        [
+          "ваше",
           8
         ],
         [
@@ -1096,6 +1109,10 @@
         ],
         [
           "очень",
+          7
+        ],
+        [
+          "батюшка",
           7
         ],
         [
@@ -1111,19 +1128,11 @@
           7
         ],
         [
-          "ваше",
-          7
-        ],
-        [
           "ибрагима",
           6
         ],
         [
           "тебе",
-          6
-        ],
-        [
-          "батюшка",
           6
         ],
         [
@@ -1135,7 +1144,7 @@
           6
         ],
         [
-          "вечера",
+          "нем",
           6
         ],
         [
@@ -1144,14 +1153,6 @@
         ],
         [
           "тимербулат",
-          5
-        ],
-        [
-          "двор",
-          5
-        ],
-        [
-          "деньги",
           5
         ]
       ]

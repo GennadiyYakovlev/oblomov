@@ -6,17 +6,17 @@
     "01_Система/01_02_Дискотека чемпионов.md",
     "01_Система/01_03_Разговор с Джорджи.md"
   ],
-  "words": 3829,
-  "symbols": 25660,
-  "lexicon_size": 1981,
-  "wateriness": 37.3,
+  "words": 3847,
+  "symbols": 25784,
+  "lexicon_size": 1992,
+  "wateriness": 37.2,
   "nausea": 0.9,
-  "sentences": 361,
+  "sentences": 362,
   "paragraphs": 4,
   "avg_word_len": 5.4,
   "lexical_richness": 1.9,
   "avg_sentence_len_words": 10.6,
-  "avg_paragraph_len_words": 957.2,
+  "avg_paragraph_len_words": 961.8,
   "top_words": [
     [
       "джорджи",

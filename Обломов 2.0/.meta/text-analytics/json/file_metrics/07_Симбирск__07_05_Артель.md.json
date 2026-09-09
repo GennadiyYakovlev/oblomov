@@ -1,18 +1,18 @@
 {
   "path": "07_Симбирск/07_05_Артель.md",
   "chapter": "07",
-  "words": 1429,
-  "symbols": 9609,
-  "unique_words": 904,
-  "stopwords_words": 463,
+  "words": 1439,
+  "symbols": 9681,
+  "unique_words": 908,
+  "stopwords_words": 468,
   "max_word_repeats": 6,
-  "sentences": 105,
+  "sentences": 107,
   "paragraphs": 1,
   "avg_word_len": 5.5,
-  "avg_sentence_len_words": 13.6,
-  "avg_paragraph_len_words": 1429.0,
+  "avg_sentence_len_words": 13.4,
+  "avg_paragraph_len_words": 1439.0,
   "dialogue_lines": 0,
-  "lines": 37,
+  "lines": 36,
   "dialogue_share_percent": 0.0,
   "top_words": [
     [
@@ -49,6 +49,10 @@
     ],
     [
       "ночью",
+      3
+    ],
+    [
+      "пару",
       3
     ],
     [
@@ -104,12 +108,20 @@
       3
     ],
     [
+      "источник",
+      3
+    ],
+    [
       "прямо",
       3
     ],
     [
       "дверь",
       3
+    ],
+    [
+      "часовне",
+      2
     ],
     [
       "слободе",
@@ -121,18 +133,6 @@
     ],
     [
       "туда",
-      2
-    ],
-    [
-      "соседнего",
-      2
-    ],
-    [
-      "трактира",
-      2
-    ],
-    [
-      "пару",
       2
     ]
   ]

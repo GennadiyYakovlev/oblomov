@@ -1,19 +1,19 @@
 {
   "path": "07_Симбирск/07_01_Трактир.md",
   "chapter": "07",
-  "words": 2202,
-  "symbols": 14982,
-  "unique_words": 1345,
-  "stopwords_words": 743,
+  "words": 2274,
+  "symbols": 15511,
+  "unique_words": 1391,
+  "stopwords_words": 764,
   "max_word_repeats": 35,
-  "sentences": 205,
+  "sentences": 209,
   "paragraphs": 1,
   "avg_word_len": 5.5,
-  "avg_sentence_len_words": 10.7,
-  "avg_paragraph_len_words": 2202.0,
+  "avg_sentence_len_words": 10.9,
+  "avg_paragraph_len_words": 2274.0,
   "dialogue_lines": 29,
-  "lines": 68,
-  "dialogue_share_percent": 42.6,
+  "lines": 69,
+  "dialogue_share_percent": 42.0,
   "top_words": [
     [
       "жарг",
@@ -28,11 +28,11 @@
       7
     ],
     [
-      "чуть",
-      5
+      "глаза",
+      4
     ],
     [
-      "глаза",
+      "чуть",
       4
     ],
     [
@@ -60,11 +60,15 @@
       3
     ],
     [
-      "наша",
+      "несколько",
       3
     ],
     [
       "самую",
+      3
+    ],
+    [
+      "назад",
       3
     ],
     [
@@ -129,10 +133,6 @@
     ],
     [
       "федька",
-      3
-    ],
-    [
-      "малой",
       3
     ]
   ]

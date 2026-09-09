@@ -1,34 +1,34 @@
 {
   "path": "07_Симбирск/07_07_Бал.md",
   "chapter": "07",
-  "words": 1811,
-  "symbols": 12886,
-  "unique_words": 1188,
-  "stopwords_words": 544,
-  "max_word_repeats": 7,
-  "sentences": 126,
+  "words": 1954,
+  "symbols": 13862,
+  "unique_words": 1257,
+  "stopwords_words": 595,
+  "max_word_repeats": 8,
+  "sentences": 141,
   "paragraphs": 1,
   "avg_word_len": 5.9,
-  "avg_sentence_len_words": 14.4,
-  "avg_paragraph_len_words": 1811.0,
-  "dialogue_lines": 7,
-  "lines": 42,
-  "dialogue_share_percent": 16.7,
+  "avg_sentence_len_words": 13.9,
+  "avg_paragraph_len_words": 1954.0,
+  "dialogue_lines": 11,
+  "lines": 49,
+  "dialogue_share_percent": 22.4,
   "top_words": [
+    [
+      "фр",
+      8
+    ],
     [
       "штольц",
       7
     ],
     [
-      "вечера",
-      5
-    ],
-    [
       "княжна",
-      5
+      7
     ],
     [
-      "фр",
+      "вечера",
       5
     ],
     [
@@ -45,6 +45,14 @@
     ],
     [
       "качестве",
+      4
+    ],
+    [
+      "михайловна",
+      4
+    ],
+    [
+      "илья",
       4
     ],
     [
@@ -65,6 +73,10 @@
     ],
     [
       "небольшой",
+      3
+    ],
+    [
+      "таки",
       3
     ],
     [
@@ -92,15 +104,7 @@
       3
     ],
     [
-      "разговор",
-      3
-    ],
-    [
       "хозяев",
-      3
-    ],
-    [
-      "михайловна",
       3
     ],
     [
@@ -129,10 +133,6 @@
     ],
     [
       "более",
-      3
-    ],
-    [
-      "владимир",
       3
     ]
   ]
