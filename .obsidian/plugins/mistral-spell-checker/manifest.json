@@ -1,0 +1,11 @@
+{
+	"id": "mistral-spell-checker",
+	"name": "Mistal Spell Checker",
+	"version": "1.0.2",
+	"minAppVersion": "1.0.0",
+	"description": "Checker Spell by Mistal AI.",
+	"author": "SaintByte",
+	"authorUrl": "https://gitverse.ru/saintbyte",
+	"fundingUrl": "https://boosty.to/saintbyte",
+	"isDesktopOnly": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": "smart-punctuation-on-rendering",
+  "name": "Smart Punctuation on Rendering",
+  "version": "1.0.5",
+  "description": "Renders ASCII punctuation characters in typographic forms, so you don’t have to struggle to enter desired characters in different editors anymore, for a better reading view.",
+  "author": "ile-24556",
+  "minAppVersion": "1.12.7",
+  "isDesktopOnly": false
+}
