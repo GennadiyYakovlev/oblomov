@@ -47,8 +47,13 @@ def chapter_number_from_name(name: str) -> str:
     return m.group(1) if m else "00"
 
 
-def tokenize(text: str) -> list[str]:
-    return [w.lower().replace("ё", "е") for w in WORD_RE.findall(text)]
+def tokenize(text: str, ignored: set[str] | None = None) -> list[str]:
+    ignored = ignored or set()
+    return [
+        w.lower().replace("ё", "е")
+        for w in WORD_RE.findall(text)
+        if w.lower().replace("ё", "е") not in ignored
+    ]
 
 
 def count_sentences(text: str) -> int:
@@ -63,7 +68,8 @@ def analyze_file(file_path: Path, chapter: str, cfg: dict) -> FileMetrics:
     text = file_path.read_text(encoding="utf-8", errors="ignore")
     lines = text.splitlines()
     paragraphs = [p for p in text.split("\n\n") if p.strip()]
-    words_all = tokenize(text)
+    ignored_tokens = {t.lower().replace("ё", "е") for t in cfg.get("ignored_tokens", [])}
+    words_all = tokenize(text, ignored_tokens)
     words = [w for w in words_all if len(w) >= cfg["text"]["min_word_length_for_top"]]
     stopwords = set(cfg.get("stopwords", []))
     filtered = [w for w in words if w not in stopwords]
@@ -177,7 +183,13 @@ def ensure_dirs(cfg: dict, project_root: Path) -> dict:
     return paths
 
 
-def write_outputs(project_root: Path, files_metrics: list[FileMetrics], paths: dict, run_mode: str) -> None:
+def write_outputs(
+    project_root: Path,
+    files_metrics: list[FileMetrics],
+    paths: dict,
+    run_mode: str,
+    cfg: dict,
+) -> None:
     now = datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds")
     by_chapter: dict[str, list[FileMetrics]] = {}
     chapter_note_name: dict[str, str] = {}
@@ -194,6 +206,7 @@ def write_outputs(project_root: Path, files_metrics: list[FileMetrics], paths: d
 
     # Chapter JSON
     chapter_json_summary = {}
+    ignored_tokens = {t.lower().replace("ё", "е") for t in cfg.get("ignored_tokens", [])}
     for chapter, items in by_chapter.items():
         c_words = sum(i.words for i in items)
         c_sent = sum(i.sentences for i in items)
@@ -201,7 +214,7 @@ def write_outputs(project_root: Path, files_metrics: list[FileMetrics], paths: d
         chapter_tokens: set[str] = set()
         for i in items:
             text = (project_root / i.path).read_text(encoding="utf-8", errors="ignore")
-            chapter_tokens.update(tokenize(text))
+            chapter_tokens.update(tokenize(text, ignored_tokens))
         lexicon_size = len(chapter_tokens)
         top = Counter()
         for i in items:
@@ -455,7 +468,7 @@ def main() -> None:
 
     metrics = [analyze_file(p, chapter_number_from_name(p.parent.name), cfg) for p in files]
     paths = ensure_dirs(cfg, project_root)
-    write_outputs(project_root, metrics, paths, run_mode)
+    write_outputs(project_root, metrics, paths, run_mode, cfg)
 
     print(f"Mode: {run_mode}")
     print(f"Chapter filter: {chapter or 'all'}")

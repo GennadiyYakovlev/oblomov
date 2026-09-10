@@ -17,6 +17,12 @@ text:
   dialogue_prefix: "— "
   min_word_length_for_top: 2
   top_words_limit: 30
+ignored_tokens:
+  - "фр"
+  - "нем"
+  - "арх"
+  - "жарг"
+  - "тюрк"
 stopwords:
   - "и"
   - "в"

@@ -1,16 +1,16 @@
 {
   "path": "05_Экономика/05_03_Хентай.md",
   "chapter": "05",
-  "words": 1422,
-  "symbols": 9418,
-  "unique_words": 867,
-  "stopwords_words": 513,
+  "words": 1440,
+  "symbols": 9559,
+  "unique_words": 881,
+  "stopwords_words": 516,
   "max_word_repeats": 10,
-  "sentences": 109,
+  "sentences": 110,
   "paragraphs": 1,
   "avg_word_len": 5.4,
-  "avg_sentence_len_words": 13.0,
-  "avg_paragraph_len_words": 1422.0,
+  "avg_sentence_len_words": 13.1,
+  "avg_paragraph_len_words": 1440.0,
   "dialogue_lines": 0,
   "lines": 56,
   "dialogue_share_percent": 0.0,
@@ -24,11 +24,11 @@
       8
     ],
     [
-      "просто",
-      6
+      "андрей",
+      7
     ],
     [
-      "андрей",
+      "просто",
       6
     ],
     [
@@ -88,6 +88,10 @@
       3
     ],
     [
+      "калькуляцию",
+      3
+    ],
+    [
       "лет",
       3
     ],
@@ -129,10 +133,6 @@
     ],
     [
       "других",
-      2
-    ],
-    [
-      "трудом",
       2
     ]
   ]

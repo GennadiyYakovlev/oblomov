@@ -1,18 +1,18 @@
 {
   "path": "05_Экономика/05_02_Вечер в Обломовке.md",
   "chapter": "05",
-  "words": 625,
-  "symbols": 4325,
-  "unique_words": 467,
+  "words": 624,
+  "symbols": 4320,
+  "unique_words": 466,
   "stopwords_words": 208,
   "max_word_repeats": 3,
   "sentences": 48,
   "paragraphs": 1,
   "avg_word_len": 5.7,
   "avg_sentence_len_words": 13.0,
-  "avg_paragraph_len_words": 625.0,
+  "avg_paragraph_len_words": 624.0,
   "dialogue_lines": 0,
-  "lines": 20,
+  "lines": 19,
   "dialogue_share_percent": 0.0,
   "top_words": [
     [
@@ -21,10 +21,6 @@
     ],
     [
       "бог",
-      2
-    ],
-    [
-      "кому",
       2
     ],
     [
@@ -80,6 +76,10 @@
       2
     ],
     [
+      "базовые",
+      2
+    ],
+    [
       "магические",
       2
     ],
@@ -128,11 +128,11 @@
       1
     ],
     [
-      "воля",
+      "кому",
       1
     ],
     [
-      "божья",
+      "воля",
       1
     ]
   ]

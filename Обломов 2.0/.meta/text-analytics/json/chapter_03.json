@@ -6,9 +6,9 @@
     "03_Детство/03_02_Алхимия.md",
     "03_Детство/03_03_Магия.md"
   ],
-  "words": 3208,
-  "symbols": 21996,
-  "lexicon_size": 1822,
+  "words": 3213,
+  "symbols": 22048,
+  "lexicon_size": 1827,
   "wateriness": 34.9,
   "nausea": 0.4,
   "sentences": 300,
@@ -16,7 +16,7 @@
   "avg_word_len": 5.6,
   "lexical_richness": 1.8,
   "avg_sentence_len_words": 10.7,
-  "avg_paragraph_len_words": 802.0,
+  "avg_paragraph_len_words": 803.2,
   "top_words": [
     [
       "штольц",
