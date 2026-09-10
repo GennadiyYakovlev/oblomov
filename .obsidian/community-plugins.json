@@ -1,5 +1,6 @@
 [
   "mineru-parser",
   "regex-replace",
-  "dataview"
+  "dataview",
+  "novel-word-count"
 ]
