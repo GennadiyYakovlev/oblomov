@@ -6,17 +6,17 @@
     "01_Система/01_03_Сфера.md",
     "01_Система/01_04_Жрец.md"
   ],
-  "words": 3572,
-  "symbols": 23880,
-  "lexicon_size": 1831,
-  "wateriness": 36.9,
+  "words": 3587,
+  "symbols": 23963,
+  "lexicon_size": 1842,
+  "wateriness": 37.0,
   "nausea": 1.0,
-  "sentences": 336,
+  "sentences": 339,
   "paragraphs": 4,
   "avg_word_len": 5.4,
-  "lexical_richness": 2.0,
+  "lexical_richness": 1.9,
   "avg_sentence_len_words": 10.6,
-  "avg_paragraph_len_words": 893.0,
+  "avg_paragraph_len_words": 896.8,
   "top_words": [
     [
       "джорджи",
@@ -55,10 +55,6 @@
       7
     ],
     [
-      "очень",
-      7
-    ],
-    [
       "давай",
       7
     ],
@@ -68,6 +64,10 @@
     ],
     [
       "аспекта",
+      6
+    ],
+    [
+      "свою",
       6
     ],
     [
@@ -107,11 +107,11 @@
       4
     ],
     [
-      "час",
+      "очень",
       4
     ],
     [
-      "явно",
+      "час",
       4
     ],
     [
@@ -127,15 +127,15 @@
       4
     ],
     [
+      "перед",
+      3
+    ],
+    [
       "тенях",
       3
     ],
     [
       "некроманта",
-      3
-    ],
-    [
-      "лично",
       3
     ]
   ]

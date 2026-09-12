@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T14:09:36+03:00",
+  "generated_at": "2026-09-10T21:26:59+03:00",
   "mode": "all",
   "files_count": 58,
   "chapters_count": 17,
-  "words": 47865,
-  "sentences": 4041,
+  "words": 47914,
+  "sentences": 4044,
   "paragraphs": 59,
   "avg_sentence_len_words": 11.8,
-  "avg_paragraph_len_words": 811.3,
+  "avg_paragraph_len_words": 812.1,
   "chapters": {
     "00": {
       "chapter": "00",
@@ -15,17 +15,17 @@
         "00_Пролог/00_00_Титул.md",
         "00_Пролог/01_01_Пролог.md"
       ],
-      "words": 1335,
-      "symbols": 9066,
-      "lexicon_size": 820,
-      "wateriness": 36.3,
+      "words": 1351,
+      "symbols": 9173,
+      "lexicon_size": 832,
+      "wateriness": 36.0,
       "nausea": 0.8,
-      "sentences": 133,
+      "sentences": 134,
       "paragraphs": 2,
       "avg_word_len": 5.5,
       "lexical_richness": 1.6,
-      "avg_sentence_len_words": 10.0,
-      "avg_paragraph_len_words": 667.5,
+      "avg_sentence_len_words": 10.1,
+      "avg_paragraph_len_words": 675.5,
       "top_words": [
         [
           "андрей",
@@ -112,6 +112,10 @@
           2
         ],
         [
+          "цок",
+          2
+        ],
+        [
           "глаза",
           2
         ],
@@ -142,10 +146,6 @@
         [
           "сей",
           2
-        ],
-        [
-          "слегка",
-          2
         ]
       ]
     },
@@ -157,17 +157,17 @@
         "01_Система/01_03_Сфера.md",
         "01_Система/01_04_Жрец.md"
       ],
-      "words": 3572,
-      "symbols": 23880,
-      "lexicon_size": 1831,
-      "wateriness": 36.9,
+      "words": 3587,
+      "symbols": 23963,
+      "lexicon_size": 1842,
+      "wateriness": 37.0,
       "nausea": 1.0,
-      "sentences": 336,
+      "sentences": 339,
       "paragraphs": 4,
       "avg_word_len": 5.4,
-      "lexical_richness": 2.0,
+      "lexical_richness": 1.9,
       "avg_sentence_len_words": 10.6,
-      "avg_paragraph_len_words": 893.0,
+      "avg_paragraph_len_words": 896.8,
       "top_words": [
         [
           "джорджи",
@@ -206,10 +206,6 @@
           7
         ],
         [
-          "очень",
-          7
-        ],
-        [
           "давай",
           7
         ],
@@ -219,6 +215,10 @@
         ],
         [
           "аспекта",
+          6
+        ],
+        [
+          "свою",
           6
         ],
         [
@@ -258,11 +258,11 @@
           4
         ],
         [
-          "час",
+          "очень",
           4
         ],
         [
-          "явно",
+          "час",
           4
         ],
         [
@@ -278,15 +278,15 @@
           4
         ],
         [
+          "перед",
+          3
+        ],
+        [
           "тенях",
           3
         ],
         [
           "некроманта",
-          3
-        ],
-        [
-          "лично",
           3
         ]
       ]
@@ -299,9 +299,9 @@
         "02_Откат/02_02_Абилка.md",
         "02_Откат/02_03_Офис.md"
       ],
-      "words": 2958,
-      "symbols": 20065,
-      "lexicon_size": 1681,
+      "words": 2965,
+      "symbols": 20116,
+      "lexicon_size": 1685,
       "wateriness": 34.4,
       "nausea": 0.5,
       "sentences": 247,
@@ -309,11 +309,15 @@
       "avg_word_len": 5.6,
       "lexical_richness": 1.8,
       "avg_sentence_len_words": 12.0,
-      "avg_paragraph_len_words": 739.5,
+      "avg_paragraph_len_words": 741.2,
       "top_words": [
         [
           "интерфейс",
           12
+        ],
+        [
+          "очень",
+          7
         ],
         [
           "голове",
@@ -373,10 +377,6 @@
         ],
         [
           "глазами",
-          4
-        ],
-        [
-          "очень",
           4
         ],
         [
@@ -441,17 +441,17 @@
         "03_Детство/03_02_Алхимия.md",
         "03_Детство/03_03_Магия.md"
       ],
-      "words": 3213,
-      "symbols": 22048,
-      "lexicon_size": 1827,
-      "wateriness": 34.9,
+      "words": 3218,
+      "symbols": 22095,
+      "lexicon_size": 1833,
+      "wateriness": 34.8,
       "nausea": 0.4,
-      "sentences": 300,
+      "sentences": 299,
       "paragraphs": 4,
       "avg_word_len": 5.6,
       "lexical_richness": 1.8,
-      "avg_sentence_len_words": 10.7,
-      "avg_paragraph_len_words": 803.2,
+      "avg_sentence_len_words": 10.8,
+      "avg_paragraph_len_words": 804.5,
       "top_words": [
         [
           "штольц",
@@ -582,17 +582,17 @@
         "04_Визит/04_01_Прием.md",
         "04_Визит/04_02_Дуэль.md"
       ],
-      "words": 2568,
-      "symbols": 17896,
-      "lexicon_size": 1522,
+      "words": 2575,
+      "symbols": 17945,
+      "lexicon_size": 1525,
       "wateriness": 34.8,
       "nausea": 0.5,
       "sentences": 191,
       "paragraphs": 3,
       "avg_word_len": 5.7,
       "lexical_richness": 1.7,
-      "avg_sentence_len_words": 13.4,
-      "avg_paragraph_len_words": 856.0,
+      "avg_sentence_len_words": 13.5,
+      "avg_paragraph_len_words": 858.3,
       "top_words": [
         [
           "сиятельство",
@@ -663,6 +663,10 @@
           3
         ],
         [
+          "вполне",
+          3
+        ],
+        [
           "федора",
           3
         ],
@@ -709,10 +713,6 @@
         [
           "точно",
           3
-        ],
-        [
-          "нос",
-          2
         ]
       ]
     },
@@ -724,8 +724,8 @@
         "05_Экономика/05_02_Вечер в Обломовке.md",
         "05_Экономика/05_03_Хентай.md"
       ],
-      "words": 3583,
-      "symbols": 24094,
+      "words": 3582,
+      "symbols": 24086,
       "lexicon_size": 1998,
       "wateriness": 35.6,
       "nausea": 0.6,
@@ -734,7 +734,7 @@
       "avg_word_len": 5.5,
       "lexical_richness": 1.8,
       "avg_sentence_len_words": 12.7,
-      "avg_paragraph_len_words": 895.8,
+      "avg_paragraph_len_words": 895.5,
       "top_words": [
         [
           "штольц",

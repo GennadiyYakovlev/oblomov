@@ -6,9 +6,9 @@
     "02_Откат/02_02_Абилка.md",
     "02_Откат/02_03_Офис.md"
   ],
-  "words": 2958,
-  "symbols": 20065,
-  "lexicon_size": 1681,
+  "words": 2965,
+  "symbols": 20116,
+  "lexicon_size": 1685,
   "wateriness": 34.4,
   "nausea": 0.5,
   "sentences": 247,
@@ -16,11 +16,15 @@
   "avg_word_len": 5.6,
   "lexical_richness": 1.8,
   "avg_sentence_len_words": 12.0,
-  "avg_paragraph_len_words": 739.5,
+  "avg_paragraph_len_words": 741.2,
   "top_words": [
     [
       "интерфейс",
       12
+    ],
+    [
+      "очень",
+      7
     ],
     [
       "голове",
@@ -80,10 +84,6 @@
     ],
     [
       "глазами",
-      4
-    ],
-    [
-      "очень",
       4
     ],
     [

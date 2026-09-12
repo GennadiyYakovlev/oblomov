@@ -4,17 +4,17 @@
     "00_Пролог/00_00_Титул.md",
     "00_Пролог/01_01_Пролог.md"
   ],
-  "words": 1335,
-  "symbols": 9066,
-  "lexicon_size": 820,
-  "wateriness": 36.3,
+  "words": 1351,
+  "symbols": 9173,
+  "lexicon_size": 832,
+  "wateriness": 36.0,
   "nausea": 0.8,
-  "sentences": 133,
+  "sentences": 134,
   "paragraphs": 2,
   "avg_word_len": 5.5,
   "lexical_richness": 1.6,
-  "avg_sentence_len_words": 10.0,
-  "avg_paragraph_len_words": 667.5,
+  "avg_sentence_len_words": 10.1,
+  "avg_paragraph_len_words": 675.5,
   "top_words": [
     [
       "андрей",
@@ -101,6 +101,10 @@
       2
     ],
     [
+      "цок",
+      2
+    ],
+    [
       "глаза",
       2
     ],
@@ -130,10 +134,6 @@
     ],
     [
       "сей",
-      2
-    ],
-    [
-      "слегка",
       2
     ]
   ]

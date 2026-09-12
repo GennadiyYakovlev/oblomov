@@ -1,16 +1,16 @@
 {
   "path": "01_Система/01_04_Жрец.md",
   "chapter": "01",
-  "words": 1030,
-  "symbols": 6948,
-  "unique_words": 648,
-  "stopwords_words": 359,
+  "words": 1029,
+  "symbols": 6954,
+  "unique_words": 652,
+  "stopwords_words": 358,
   "max_word_repeats": 12,
   "sentences": 103,
   "paragraphs": 1,
   "avg_word_len": 5.5,
   "avg_sentence_len_words": 10.0,
-  "avg_paragraph_len_words": 1030.0,
+  "avg_paragraph_len_words": 1029.0,
   "dialogue_lines": 0,
   "lines": 36,
   "dialogue_share_percent": 0.0,
@@ -64,10 +64,6 @@
       3
     ],
     [
-      "хотя",
-      3
-    ],
-    [
       "никаких",
       3
     ],
@@ -76,15 +72,15 @@
       3
     ],
     [
-      "очень",
-      3
-    ],
-    [
       "назад",
       3
     ],
     [
       "давай",
+      3
+    ],
+    [
+      "свою",
       3
     ],
     [
@@ -133,6 +129,10 @@
     ],
     [
       "путь",
+      2
+    ],
+    [
+      "перед",
       2
     ]
   ]

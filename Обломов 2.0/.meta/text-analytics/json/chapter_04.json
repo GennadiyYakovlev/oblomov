@@ -5,17 +5,17 @@
     "04_Визит/04_01_Прием.md",
     "04_Визит/04_02_Дуэль.md"
   ],
-  "words": 2568,
-  "symbols": 17896,
-  "lexicon_size": 1522,
+  "words": 2575,
+  "symbols": 17945,
+  "lexicon_size": 1525,
   "wateriness": 34.8,
   "nausea": 0.5,
   "sentences": 191,
   "paragraphs": 3,
   "avg_word_len": 5.7,
   "lexical_richness": 1.7,
-  "avg_sentence_len_words": 13.4,
-  "avg_paragraph_len_words": 856.0,
+  "avg_sentence_len_words": 13.5,
+  "avg_paragraph_len_words": 858.3,
   "top_words": [
     [
       "сиятельство",
@@ -86,6 +86,10 @@
       3
     ],
     [
+      "вполне",
+      3
+    ],
+    [
       "федора",
       3
     ],
@@ -132,10 +136,6 @@
     [
       "точно",
       3
-    ],
-    [
-      "нос",
-      2
     ]
   ]
 }

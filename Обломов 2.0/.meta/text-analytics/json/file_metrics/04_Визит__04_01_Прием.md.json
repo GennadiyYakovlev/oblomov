@@ -1,16 +1,16 @@
 {
   "path": "04_Визит/04_01_Прием.md",
   "chapter": "04",
-  "words": 1397,
-  "symbols": 9975,
-  "unique_words": 924,
-  "stopwords_words": 468,
+  "words": 1404,
+  "symbols": 10019,
+  "unique_words": 927,
+  "stopwords_words": 471,
   "max_word_repeats": 5,
   "sentences": 103,
   "paragraphs": 1,
   "avg_word_len": 5.9,
   "avg_sentence_len_words": 13.6,
-  "avg_paragraph_len_words": 1397.0,
+  "avg_paragraph_len_words": 1404.0,
   "dialogue_lines": 0,
   "lines": 33,
   "dialogue_share_percent": 0.0,
@@ -53,6 +53,10 @@
     ],
     [
       "уверенно",
+      3
+    ],
+    [
+      "вполне",
       3
     ],
     [
@@ -129,10 +133,6 @@
     ],
     [
       "хованских",
-      2
-    ],
-    [
-      "кстати",
       2
     ]
   ]

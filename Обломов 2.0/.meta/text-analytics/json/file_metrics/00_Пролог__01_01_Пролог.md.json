@@ -1,18 +1,18 @@
 {
   "path": "00_Пролог/01_01_Пролог.md",
   "chapter": "00",
-  "words": 1302,
-  "symbols": 8852,
-  "unique_words": 801,
-  "stopwords_words": 471,
+  "words": 1318,
+  "symbols": 8959,
+  "unique_words": 813,
+  "stopwords_words": 474,
   "max_word_repeats": 9,
-  "sentences": 128,
+  "sentences": 129,
   "paragraphs": 1,
   "avg_word_len": 5.5,
   "avg_sentence_len_words": 10.2,
-  "avg_paragraph_len_words": 1302.0,
+  "avg_paragraph_len_words": 1318.0,
   "dialogue_lines": 0,
-  "lines": 56,
+  "lines": 57,
   "dialogue_share_percent": 0.0,
   "top_words": [
     [
@@ -100,6 +100,10 @@
       2
     ],
     [
+      "цок",
+      2
+    ],
+    [
       "глаза",
       2
     ],
@@ -129,10 +133,6 @@
     ],
     [
       "сей",
-      2
-    ],
-    [
-      "слегка",
       2
     ]
   ]

@@ -1,16 +1,16 @@
 {
   "path": "03_Детство/03_02_Алхимия.md",
   "chapter": "03",
-  "words": 1437,
-  "symbols": 9707,
-  "unique_words": 891,
+  "words": 1440,
+  "symbols": 9726,
+  "unique_words": 896,
   "stopwords_words": 534,
   "max_word_repeats": 5,
   "sentences": 132,
   "paragraphs": 1,
   "avg_word_len": 5.5,
   "avg_sentence_len_words": 10.9,
-  "avg_paragraph_len_words": 1437.0,
+  "avg_paragraph_len_words": 1440.0,
   "dialogue_lines": 0,
   "lines": 55,
   "dialogue_share_percent": 0.0,
@@ -124,15 +124,15 @@
       2
     ],
     [
-      "школе",
-      2
-    ],
-    [
       "пансионате",
       2
     ],
     [
       "учеников",
+      2
+    ],
+    [
+      "иногда",
       2
     ]
   ]
