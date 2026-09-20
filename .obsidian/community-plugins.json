@@ -2,6 +2,5 @@
   "mineru-parser",
   "regex-replace",
   "dataview",
-  "novel-word-count",
-  "mistral-spell-checker"
+  "novel-word-count"
 ]

@@ -1,25 +1,25 @@
 # Text Analytics Dashboard
 
-- Generated: `2026-09-10T14:09:36+03:00`
+- Generated: `2026-09-10T21:26:59+03:00`
 - Mode: `all`
 - Files analyzed: **58**
 - Chapters analyzed: **17**
-- Words: **47865**
-- Sentences: **4041**
+- Words: **47914**
+- Sentences: **4044**
 - Paragraphs: **59**
 - Avg sentence length (words): **11.8**
-- Avg paragraph length (words): **811.3**
+- Avg paragraph length (words): **812.1**
 
 ## Dataview Tables
 ![[dataview/00_Dataview_Таблицы]]
 
 ## Chapters
-- `00`: 1335 words, 2 files -> `chapters/00.md`
-- `01`: 3572 words, 4 files -> `chapters/01.md`
-- `02`: 2958 words, 4 files -> `chapters/02.md`
-- `03`: 3213 words, 4 files -> `chapters/03.md`
-- `04`: 2568 words, 3 files -> `chapters/04.md`
-- `05`: 3583 words, 4 files -> `chapters/05.md`
+- `00`: 1351 words, 2 files -> `chapters/00.md`
+- `01`: 3587 words, 4 files -> `chapters/01.md`
+- `02`: 2965 words, 4 files -> `chapters/02.md`
+- `03`: 3218 words, 4 files -> `chapters/03.md`
+- `04`: 2575 words, 3 files -> `chapters/04.md`
+- `05`: 3582 words, 4 files -> `chapters/05.md`
 - `06`: 2440 words, 4 files -> `chapters/06.md`
 - `07`: 2815 words, 4 files -> `chapters/07.md`
 - `08`: 3095 words, 4 files -> `chapters/08.md`
